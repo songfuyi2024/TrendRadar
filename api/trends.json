@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T10:28:50.672792+08:00",
-  "total_titles_processed": 296,
+  "generated_at": "2025-10-14T11:33:45.966867+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "以色列送了特朗普一个特别的礼物",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时33分]"
         },
         {
           "title": "特朗普政府拟拨款5亿美元加强无人机威胁防御",
@@ -30,6 +30,65 @@
           "time_info": "10时28分"
         },
         {
+          "title": "特朗普C位合影喊话：大家笑起来",
+          "url": "https://www.toutiao.com/trending/7560888494140182043/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时33分]"
+        },
+        {
+          "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31770585",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时33分]"
+        },
+        {
+          "title": "特朗普演讲遭抗议者打断 现场噘起嘴",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AE%B2%E9%81%AD%E6%8A%97%E8%AE%AE%E8%80%85%E6%89%93%E6%96%AD+%E7%8E%B0%E5%9C%BA%E5%99%98%E8%B5%B7%E5%98%B4",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时33分]"
+        },
+        {
+          "title": "自扇耳光?特朗普关税战求和中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345729&amp;topic_name=%E8%87%AA%E6%89%87%E8%80%B3%E5%85%89%3F%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%98%E6%B1%82%E5%92%8C%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时33分]"
+        },
+        {
+          "title": "特朗普马克龙26秒“掰手腕式握手”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E5%85%8B%E9%BE%9926%E7%A7%92%E2%80%9C%E6%8E%B0%E6%89%8B%E8%85%95%E5%BC%8F%E6%8F%A1%E6%89%8B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时33分]"
+        },
+        {
           "title": "2025经济诺奖聚焦创新何以推动经济增长 得主当场批评特朗普关税",
           "url": "https://www.cls.cn/detail/2168105",
           "source": "财联社热门",
@@ -41,48 +100,15 @@
           "time_info": "10时28分"
         },
         {
-          "title": "特朗普C位合影喊话：大家笑起来",
-          "url": "https://www.toutiao.com/trending/7560888494140182043/",
+          "title": "特朗普马克龙上演26秒掰手腕式握手",
+          "url": "https://www.toutiao.com/trending/7560319512873058355/",
           "source": "今日头条",
           "ranks": [
-            9
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31770585",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "特朗普演讲遭抗议者打断 现场噘起嘴",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AE%B2%E9%81%AD%E6%8A%97%E8%AE%AE%E8%80%85%E6%89%93%E6%96%AD+%E7%8E%B0%E5%9C%BA%E5%99%98%E8%B5%B7%E5%98%B4",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "自扇耳光?特朗普关税战求和中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345729&amp;topic_name=%E8%87%AA%E6%89%87%E8%80%B3%E5%85%89%3F%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%98%E6%B1%82%E5%92%8C%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
+          "time_info": "11时33分"
         },
         {
           "title": "特朗普称「加沙战争已结束，哈马斯将解除武装」，加沙地区会迎来持久的和平吗？",
@@ -129,17 +155,6 @@
           "time_info": "10时28分"
         },
         {
-          "title": "特朗普马克龙26秒“掰手腕式握手”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E5%85%8B%E9%BE%9926%E7%A7%92%E2%80%9C%E6%8E%B0%E6%89%8B%E8%85%95%E5%BC%8F%E6%8F%A1%E6%89%8B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
           "title": "特朗普在以议会演讲遭大喊抗议",
           "url": "https://www.toutiao.com/trending/7559806251903864339/",
           "source": "今日头条",
@@ -149,6 +164,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI下订博通10GW定制芯片 AI巨头放言“这才是九牛一毛”",
+          "url": "https://www.cls.cn/detail/2168170",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时33分]"
+        },
+        {
+          "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
+          "url": "https://wallstreetcn.com/articles/3757107",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时33分]"
+        },
+        {
+          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
+          "url": "https://wallstreetcn.com/articles/3757125",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时33分]"
+        },
+        {
+          "title": "甲骨文CEO：OpenAI每年支付600亿美元“当然没问题”",
+          "url": "https://www.cls.cn/detail/2168234",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         }
       ]
     },
@@ -164,8 +232,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时33分]"
         },
         {
           "title": "【早报】美联储发声，美股全线反弹、国际金银价格飙升；中方对美船舶收取特别港务费，今起正式施行",
@@ -175,19 +243,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时33分]"
         },
         {
           "title": "美股收盘：三大指数强势反弹 中国金龙指数涨超3%",
           "url": "https://www.cls.cn/detail/2168249",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时33分]"
         },
         {
           "title": "高盛交易员：上周五的美股表现更像是“保护”，而非“退出”",
@@ -197,47 +266,59 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时33分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "keyword_group": "伊朗",
+      "match_count": 4,
       "titles": [
         {
-          "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
-          "url": "https://wallstreetcn.com/articles/3757107",
-          "source": "华尔街见闻",
+          "title": "2025 年亚洲乒乓球团体锦标赛中国 3-1 战胜伊朗，晋级四强，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1961164685068951746",
+          "source": "知乎",
           "ranks": [
-            7
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 11时33分]"
         },
         {
-          "title": "OpenAI下订博通10GW定制芯片 AI巨头放言“这才是九牛一毛”",
-          "url": "https://www.cls.cn/detail/2168170",
-          "source": "财联社热门",
+          "title": "乒乓亚锦赛伊朗教练现场手改球衣",
+          "url": "https://www.toutiao.com/trending/7560608993027342375/",
+          "source": "今日头条",
           "ranks": [
-            7
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时28分"
+          "time_info": "11时33分"
         },
         {
-          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
-          "url": "https://wallstreetcn.com/articles/3757125",
-          "source": "华尔街见闻",
+          "title": "林诗栋不敌伊朗15岁小将",
+          "url": "https://www.douyin.com/hot/2268937",
+          "source": "抖音",
           "ranks": [
-            8
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时28分"
+          "time_info": "11时33分"
+        },
+        {
+          "title": "乒乓球亚锦赛中国男队3:1伊朗",
+          "url": "https://www.douyin.com/hot/2269003",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         }
       ]
     },
@@ -251,23 +332,6 @@
           "source": "金十数据",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2025 年亚洲乒乓球团体锦标赛中国 3-1 战胜伊朗，晋级四强，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1961164685068951746",
-          "source": "知乎",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
