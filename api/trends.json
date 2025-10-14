@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-10-14T19:14:40.888853+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2025-10-14T20:36:21.423941+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
+          "url": "https://v.ifeng.com/c/8nRLZYpIezc",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时26分 ~ 20时36分]"
+        },
         {
           "title": "特朗普签署加沙停火协议",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
@@ -17,23 +29,12 @@
             5,
             8,
             3,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时28分 ~ 19时14分]"
-        },
-        {
-          "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
-          "url": "https://v.ifeng.com/c/8nRLZYpIezc",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时26分 ~ 19时14分]"
+          "appearance_count": 11,
+          "time_info": "[10时28分 ~ 20时36分]"
         },
         {
           "title": "特朗普C位合影喊话：大家笑起来",
@@ -50,8 +51,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时28分 ~ 19时14分]"
+          "appearance_count": 12,
+          "time_info": "[10时28分 ~ 20时36分]"
         },
         {
           "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
@@ -81,8 +82,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时28分 ~ 19时14分]"
+          "appearance_count": 12,
+          "time_info": "[10时28分 ~ 20时36分]"
         },
         {
           "title": "以色列送了特朗普一个特别的礼物",
@@ -104,8 +105,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 20时36分]"
         },
         {
           "title": "鲁比奥赞扬特朗普时却遭特朗普当场质疑，鲁比奥迅速改口，美媒嘲讽",
@@ -114,7 +115,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -139,6 +140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "特朗普抱怨：这张照片实在太烂了(图)",
+          "url": "https://news.ifeng.com/c/8nRrXfFKai8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 20时36分]"
         },
         {
           "title": "和平峰会特朗普挨个点名各国领导人",
@@ -179,6 +191,18 @@
           "time_info": "[11时33分 ~ 14时26分]"
         },
         {
+          "title": "特朗普指着阿联酋副总统：钱多得没边",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E7%9D%80%E9%98%BF%E8%81%94%E9%85%8B%E5%89%AF%E6%80%BB%E7%BB%9F%EF%BC%9A%E9%92%B1%E5%A4%9A%E5%BE%97%E6%B2%A1%E8%BE%B9",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 20时36分]"
+        },
+        {
           "title": "特朗普马克龙26秒“掰手腕式握手”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E5%85%8B%E9%BE%9926%E7%A7%92%E2%80%9C%E6%8E%B0%E6%89%8B%E8%85%95%E5%BC%8F%E6%8F%A1%E6%89%8B%E2%80%9D",
           "source": "百度热搜",
@@ -191,15 +215,17 @@
           "time_info": "[10时28分 ~ 17时20分]"
         },
         {
-          "title": "特朗普抱怨：这张照片实在太烂了(图)",
-          "url": "https://news.ifeng.com/c/8nRrXfFKai8",
-          "source": "凤凰网",
+          "title": "特朗普抱怨美媒用他最差照片当封面",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E6%80%A8%E7%BE%8E%E5%AA%92%E7%94%A8%E4%BB%96%E6%9C%80%E5%B7%AE%E7%85%A7%E7%89%87%E5%BD%93%E5%B0%81%E9%9D%A2",
+          "source": "百度热搜",
           "ranks": [
-            6
+            30,
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 20时36分]"
         },
         {
           "title": "特朗普扬言对华加关税后为何立即改口",
@@ -208,18 +234,6 @@
           "ranks": [
             24,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 19时14分]"
-        },
-        {
-          "title": "特朗普指着阿联酋副总统：钱多得没边",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E7%9D%80%E9%98%BF%E8%81%94%E9%85%8B%E5%89%AF%E6%80%BB%E7%BB%9F%EF%BC%9A%E9%92%B1%E5%A4%9A%E5%BE%97%E6%B2%A1%E8%BE%B9",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            13
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -250,18 +264,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时25分 ~ 14时26分]"
-        },
-        {
-          "title": "特朗普抱怨美媒用他最差照片当封面",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E6%80%A8%E7%BE%8E%E5%AA%92%E7%94%A8%E4%BB%96%E6%9C%80%E5%B7%AE%E7%85%A7%E7%89%87%E5%BD%93%E5%B0%81%E9%9D%A2",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 19时14分]"
         },
         {
           "title": "2025经济诺奖聚焦创新何以推动经济增长 得主当场批评特朗普关税",
@@ -295,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "特朗普：我对“两国方案”还没有表态",
+          "url": "https://wallstreetcn.com/livenews/2987529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "特朗普关税由谁买单？高盛最新分析：美国消费者将负担超五成成本",
@@ -374,6 +387,28 @@
           "time_info": "15时19分"
         },
         {
+          "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31776933",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "特朗普100%关税威胁是虚晃一枪吗",
+          "url": "https://www.toutiao.com/trending/7560969100101422601/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "特朗普的100%关税威胁是政治表演吗",
           "url": "https://www.toutiao.com/trending/7560845798087331364/",
           "source": "今日头条",
@@ -399,7 +434,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
@@ -410,8 +445,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时28分 ~ 19时14分]"
+          "appearance_count": 12,
+          "time_info": "[10时28分 ~ 20时36分]"
         },
         {
           "title": "【早报】美联储发声，美股全线反弹、国际金银价格飙升；中方对美船舶收取特别港务费，今起正式施行",
@@ -500,7 +535,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -522,7 +557,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -533,9 +568,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "AMD美股盘前涨超1%，CNBC消息，甲骨文云将于2026年下半年开始部署5万颗AMD AI芯片。",
+          "url": "https://wallstreetcn.com/livenews/2987532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "美股盘前，明星科技股普跌，英伟达、博通、甲骨文均跌超2%。热门中概股盘前下跌，哔哩哔哩跌5％。",
@@ -555,7 +601,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -566,7 +612,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -577,9 +623,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "高盛第三季度净营收151.8亿美元，同比增长20%，市场预估141.7亿美元。 第三季度股票销售和交易业务营收37.4亿美元，市场预估39.4亿美元。 第三季度每股收益12.25美元，上年同期8.40美元。 第三季度管理资产3.45万亿美元，同比增长11%，市场预估3.4万亿美元。 高盛美股盘前涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/2987511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         }
       ]
     },
@@ -673,11 +730,12 @@
             2,
             14,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时19分 ~ 19时14分]"
+          "appearance_count": 7,
+          "time_info": "[15时19分 ~ 20时36分]"
         },
         {
           "title": "金十图示：2025年10月14日（周二）上海金早盘价为945.32元/克，较国际金价(950.27元/克)低4.95元/克",
@@ -689,6 +747,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "金价这么高 到底谁在买",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%99%E4%B9%88%E9%AB%98+%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E4%B9%B0",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 20时36分]"
         },
         {
           "title": "金价疯狂涨势还能持续多久",
@@ -712,17 +782,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
-        },
-        {
-          "title": "金价这么高 到底谁在买",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%99%E4%B9%88%E9%AB%98+%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E4%B9%B0",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
         }
       ]
     },
@@ -742,8 +801,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时28分 ~ 19时14分]"
+          "appearance_count": 12,
+          "time_info": "[10时28分 ~ 20时36分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
@@ -781,6 +840,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时33分 ~ 13时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "盛屯矿业：全资下属公司盛屯黄金安大略拟以每股1.38加元的价格，现金方式收购Loncor现有全部已发行且流通的普通股及待稀释股份。收购完成后，公司将通过买方持有Loncor 100%股权。本次收购的交易金额约为2.61亿加元，约合1.9亿美元，人民币13.5亿元。",
+          "url": "https://wallstreetcn.com/livenews/2987520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         }
       ]
     }
