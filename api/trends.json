@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T13:18:16.250928+08:00",
-  "total_titles_processed": 1215,
+  "generated_at": "2025-10-15T14:26:54.870966+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 13时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 14时26分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -64,6 +64,31 @@
           "time_info": "[00时21分 ~ 12时21分]"
         },
         {
+          "title": "特朗普称考虑终止与中国部分贸易往来",
+          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时26分]"
+        },
+        {
+          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
+          "url": "https://wallstreetcn.com/articles/3757151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时26分]"
+        },
+        {
           "title": "特朗普向遭枪杀的柯克追授总统自由勋章",
           "url": "https://news.ifeng.com/c/8nSZnW70ZhT",
           "source": "凤凰网",
@@ -73,17 +98,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时17分]"
-        },
-        {
-          "title": "特朗普称考虑终止与中国部分贸易往来",
-          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时18分]"
         },
         {
           "title": "美法官裁定：特朗普政府将移民执法与拨款挂钩违反法院命令",
@@ -117,18 +131,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        },
-        {
-          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
-          "url": "https://wallstreetcn.com/articles/3757151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时18分]"
         },
         {
           "title": "特朗普：我对“两国方案”还没有表态",
@@ -595,6 +597,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
+          "url": "https://www.cls.cn/detail/2169818",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
           "title": "美国总统特朗普：与哈马斯的会谈是“通过我的人”在最高级别进行的。",
           "url": "https://flash.jin10.com/detail/20251015023128393800",
           "source": "金十数据",
@@ -841,8 +854,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时17分 ~ 13时18分]"
+          "appearance_count": 8,
+          "time_info": "[07时17分 ~ 14时26分]"
         },
         {
           "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
@@ -1050,8 +1063,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时26分]"
+        },
+        {
+          "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
+          "url": "https://www.cls.cn/detail/2169515",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时05分 ~ 14时26分]"
         },
         {
           "title": "OpenAI拟在阿根廷投资250亿美元 打造拉美首个“星门”项目",
@@ -1088,19 +1114,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时21分 ~ 13时18分]"
-        },
-        {
-          "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
-          "url": "https://www.cls.cn/detail/2169515",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时05分 ~ 13时18分]"
         },
         {
           "title": "据英国金融时报：OpenAI正致力于开拓新的收入来源，寻求债务合作，并进一步开展融资活动，以应对庞大的成本。",
@@ -1419,11 +1432,12 @@
           "ranks": [
             7,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时26分]"
         }
       ]
     }
