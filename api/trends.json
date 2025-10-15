@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T19:16:22.774309+08:00",
-  "total_titles_processed": 1813,
+  "generated_at": "2025-10-15T20:35:21.632628+08:00",
+  "total_titles_processed": 1935,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 90,
+      "match_count": 93,
       "titles": [
         {
           "title": "特朗普称考虑终止与中国部分贸易往来",
@@ -106,17 +106,6 @@
           "time_info": "[15时17分 ~ 18时19分]"
         },
         {
-          "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
-          "url": "https://news.ifeng.com/c/8nTFc7ITZHc",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时17分 ~ 17时18分]"
-        },
-        {
           "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
           "url": "https://news.ifeng.com/c/8nTRWt9dnoI",
           "source": "凤凰网",
@@ -124,8 +113,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时16分]"
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 20时35分]"
         },
         {
           "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
@@ -138,8 +127,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 20时35分]"
         },
         {
           "title": "中方回应特朗普指责停止进口美大豆",
@@ -151,8 +140,41 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 20时35分]"
+        },
+        {
+          "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
+          "url": "https://news.ifeng.com/c/8nTFc7ITZHc",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时23分 ~ 19时16分]"
+          "time_info": "[15时17分 ~ 17时18分]"
+        },
+        {
+          "title": "特朗普施压米莱：选举没赢，美援就撤",
+          "url": "https://news.ifeng.com/c/8nTSlqxj4DZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时35分]"
+        },
+        {
+          "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
+          "url": "https://news.ifeng.com/c/8nTUE2vlU0C",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时35分]"
         },
         {
           "title": "特朗普向遭枪杀的柯克追授总统自由勋章",
@@ -181,26 +203,17 @@
           "time_info": "[14时26分 ~ 19时16分]"
         },
         {
-          "title": "特朗普施压米莱：选举没赢，美援就撤",
-          "url": "https://news.ifeng.com/c/8nTSlqxj4DZ",
-          "source": "凤凰网",
+          "title": "外交部回应“特朗普威胁报复中方”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%8A%A5%E5%A4%8D%E4%B8%AD%E6%96%B9%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            4
+            14,
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时16分]"
-        },
-        {
-          "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
-          "url": "https://news.ifeng.com/c/8nTUE2vlU0C",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 20时35分]"
         },
         {
           "title": "美法官裁定：特朗普政府将移民执法与拨款挂钩违反法院命令",
@@ -350,19 +363,6 @@
           "time_info": "12时21分"
         },
         {
-          "title": "外交部回应“特朗普威胁报复中方”",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%8A%A5%E5%A4%8D%E4%B8%AD%E6%96%B9%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 19时16分]"
-        },
-        {
           "title": "美国总统特朗普：今天将支持阿根廷总统米莱。",
           "url": "https://flash.jin10.com/detail/20251015020948350800",
           "source": "金十数据",
@@ -496,6 +496,19 @@
           "time_info": "[02时24分 ~ 05时16分]"
         },
         {
+          "title": "外交部回应特朗普拟禁中美航班过境俄",
+          "url": "https://www.toutiao.com/trending/7560715346903236644/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时35分]"
+        },
+        {
           "title": "美国总统特朗普：加沙和平计划第二阶段现在启动。 工作尚未完成，并不是所有死亡的人质都被归还。",
           "url": "https://wallstreetcn.com/livenews/2987645",
           "source": "华尔街见闻-快讯",
@@ -518,18 +531,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时23分 ~ 18时19分]"
-        },
-        {
-          "title": "外交部回应特朗普拟禁中美航班过境俄",
-          "url": "https://www.toutiao.com/trending/7560715346903236644/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时16分]"
         },
         {
           "title": "阿根廷MERVAL指数收跌2.23%，报188.2万点，北京时间02:15前后开启一波显著的“急转直下”行情。 美国总统特朗普和财长贝森特会见阿根廷总统米莱，称若米莱在大选中失败，美方将不再支持。",
@@ -602,6 +603,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时17分]"
+        },
+        {
+          "title": "中方回应特朗普拟禁中美航班过境俄",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9F%E7%A6%81%E4%B8%AD%E7%BE%8E%E8%88%AA%E7%8F%AD%E8%BF%87%E5%A2%83%E4%BF%84",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时35分]"
         },
         {
           "title": "特朗普政府将移民执法与拨款挂钩违法",
@@ -769,6 +782,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "特朗普再威胁对西班牙加征“惩罚性关税”，西班牙外交大臣回应",
+          "url": "https://wallstreetcn.com/livenews/2988231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "美国总统特朗普：与哈马斯的会谈是“通过我的人”在最高级别进行的。",
           "url": "https://flash.jin10.com/detail/20251015023128393800",
           "source": "金十数据",
@@ -879,6 +903,17 @@
           "time_info": "16时23分"
         },
         {
+          "title": "佩斯科夫：普京与特朗普近期能否通话尚不确定",
+          "url": "https://wallstreetcn.com/livenews/2988221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "特朗普欢迎阿根廷总统米莱到白宫进行会晤。",
           "url": "https://flash.jin10.com/detail/20251015014338891800",
           "source": "金十数据",
@@ -945,6 +980,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "佩斯科夫：普京与特朗普近期能否通话尚不确定",
+          "url": "https://flash.jin10.com/detail/20251015193440994800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "美国众议长约翰逊：特朗普政府有权将其他资源调拨来作为军人工资开销。",
           "url": "https://wallstreetcn.com/livenews/2987599",
           "source": "华尔街见闻-快讯",
@@ -995,7 +1041,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1020,17 +1066,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
-        },
-        {
-          "title": "中方回应特朗普拟禁中美航班过境俄",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9F%E7%A6%81%E4%B8%AD%E7%BE%8E%E8%88%AA%E7%8F%AD%E8%BF%87%E5%A2%83%E4%BF%84",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         },
         {
           "title": "美国总统特朗普：我们希望看到阿根廷取得成功。",
@@ -1237,7 +1272,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1398,6 +1433,18 @@
           "time_info": "[12时21分 ~ 13时18分]"
         },
         {
+          "title": "金价银价大涨原因",
+          "url": "https://www.douyin.com/hot/2270986",
+          "source": "抖音",
+          "ranks": [
+            29,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时35分]"
+        },
+        {
           "title": "金十图示：2025年10月15日（周三）上海金午盘价为957.71元/克，较国际金价(963.72元/克)，低6.01元/克",
           "url": "https://flash.jin10.com/detail/20251015155305453800",
           "source": "金十数据",
@@ -1473,17 +1520,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
-        },
-        {
-          "title": "金价银价大涨原因",
-          "url": "https://www.douyin.com/hot/2270986",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         }
       ]
     },
@@ -1663,7 +1699,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1674,7 +1710,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
