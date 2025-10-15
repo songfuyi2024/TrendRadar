@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T11:05:21.360784+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2025-10-15T12:21:40.519077+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -26,11 +26,12 @@
             9,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时05分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 12时21分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -55,11 +56,12 @@
           "source": "贴吧",
           "ranks": [
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 11时05分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 12时21分]"
         },
         {
           "title": "特朗普向遭枪杀的柯克追授总统自由勋章",
@@ -209,6 +211,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "特朗普抱怨称中国故意不买美国大豆",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E6%80%A8%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%95%85%E6%84%8F%E4%B8%8D%E4%B9%B0%E7%BE%8E%E5%9B%BD%E5%A4%A7%E8%B1%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D4%26stream_entry_id%3D31%26band_rank%3D4%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%258A%25B1%25E6%2580%25A8%25E7%25A7%25B0%25E4%25B8%25AD%25E5%259B%25BD%25E6%2595%2585%25E6%2584%258F%25E4%25B8%258D%25E4%25B9%25B0%25E7%25BE%258E%25E5%259B%25BD%25E5%25A4%25A7%25E8%25B1%2586%2523%26dgr%3D0%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26realpos%3D4%26display_time%3D1760502018%26pre_seqid%3D17605020181960244121107",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "美国总统特朗普：今天将支持阿根廷总统米莱。",
           "url": "https://flash.jin10.com/detail/20251015020948350800",
           "source": "金十数据",
@@ -240,6 +253,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "特朗普威胁：如果波士顿存在“不安全”因素，世界杯比赛就换地方办",
+          "url": "https://wallstreetcn.com/livenews/2987910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "特朗普称考虑终止与中国部分贸易往来",
+          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 12时21分]"
         },
         {
           "title": "WTI原油期货目前跌1.25%，暂报58.33美元。 美国总统特朗普自认为，可能与俄罗斯总统普京仍然关系良好。",
@@ -316,6 +351,18 @@
           "time_info": "[06时16分 ~ 07时17分]"
         },
         {
+          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
+          "url": "https://wallstreetcn.com/articles/3757151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 12时21分]"
+        },
+        {
           "title": "特朗普100%关税威胁是虚晃一枪吗",
           "url": "https://www.toutiao.com/trending/7560969100101422601/",
           "source": "今日头条",
@@ -330,17 +377,6 @@
           "time_info": "[02时24分 ~ 05时16分]"
         },
         {
-          "title": "特朗普称考虑终止与中国部分贸易往来",
-          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 11时05分]"
-        },
-        {
           "title": "美国总统特朗普：加沙和平计划第二阶段现在启动。 工作尚未完成，并不是所有死亡的人质都被归还。",
           "url": "https://wallstreetcn.com/livenews/2987645",
           "source": "华尔街见闻-快讯",
@@ -352,18 +388,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 03时15分]"
-        },
-        {
-          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
-          "url": "https://wallstreetcn.com/articles/3757151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 11时05分]"
         },
         {
           "title": "阿根廷MERVAL指数收跌2.23%，报188.2万点，北京时间02:15前后开启一波显著的“急转直下”行情。 美国总统特朗普和财长贝森特会见阿根廷总统米莱，称若米莱在大选中失败，美方将不再支持。",
@@ -820,6 +844,19 @@
           "time_info": "[00时21分 ~ 11时05分]"
         },
         {
+          "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
+          "url": "https://www.cls.cn/detail/2169528",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时17分 ~ 12时21分]"
+        },
+        {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
           "url": "https://wallstreetcn.com/articles/3757049",
           "source": "华尔街见闻",
@@ -830,18 +867,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
-          "url": "https://www.cls.cn/detail/2169528",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时17分 ~ 11时05分]"
         },
         {
           "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
@@ -998,8 +1023,152 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
+          "url": "https://wallstreetcn.com/articles/3757125",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时17分]"
+        },
+        {
+          "title": "OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目",
+          "url": "https://www.cls.cn/detail/2169533",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 12时21分]"
+        },
+        {
+          "title": "OpenAI制定五年期商业计划，以实现1万亿美元支出承诺。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/2987912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "英媒：OpenAI制定了五年商业计划 以实现1万亿美元的支出承诺",
+          "url": "https://flash.jin10.com/detail/20251015120826259800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "OpenAI拟在阿根廷投资250亿美元 打造拉美首个“星门”项目",
+          "url": "https://flash.jin10.com/detail/20251015044342683800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时16分]"
+        },
+        {
+          "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
+          "url": "https://www.cls.cn/detail/2169515",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时05分 ~ 12时21分]"
+        },
+        {
+          "title": "据英国金融时报：OpenAI正致力于开拓新的收入来源，寻求债务合作，并进一步开展融资活动，以应对庞大的成本。",
+          "url": "https://flash.jin10.com/detail/20251015120340138800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "据英国金融时报：OpenAI拟通过其“星际之门”数据中心计划转型算力供应商。",
+          "url": "https://flash.jin10.com/detail/20251015120332275800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "据英国金融时报：OpenAI正在探索“创新”计划，以筹集新债务，帮助其构建人工智能基础设施。",
+          "url": "https://flash.jin10.com/detail/20251015120232496800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "据英国金融时报：OpenAI正计划达成协议，为政府和企业提供更多定制化产品。",
+          "url": "https://flash.jin10.com/detail/20251015120212177800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "据英国金融时报：OpenAI制定五年商业计划，以实现1万亿美元支出承诺。",
+          "url": "https://flash.jin10.com/detail/20251015120157638800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "德银：OpenAI在欧洲的订阅用户“增长停滞”",
+          "url": "https://flash.jin10.com/detail/20251015030536349800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "金价这么高 到底谁在买",
@@ -1092,7 +1261,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
         },
@@ -1114,9 +1283,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
+        },
+        {
+          "title": "金价创新高还能涨吗",
+          "url": "https://www.toutiao.com/trending/7561268723688934921/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "英国央行行长贝利：更高的不确定性与市场碎片化风险推动金价上涨。",
@@ -1128,71 +1308,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
-          "url": "https://wallstreetcn.com/articles/3757125",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "OpenAI拟在阿根廷投资250亿美元 打造拉美首个“星门”项目",
-          "url": "https://flash.jin10.com/detail/20251015044342683800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时16分]"
-        },
-        {
-          "title": "OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目",
-          "url": "https://www.cls.cn/detail/2169533",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 11时05分]"
-        },
-        {
-          "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
-          "url": "https://www.cls.cn/detail/2169515",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时05分"
-        },
-        {
-          "title": "德银：OpenAI在欧洲的订阅用户“增长停滞”",
-          "url": "https://flash.jin10.com/detail/20251015030536349800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
         }
       ]
     },
@@ -1294,11 +1409,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 11时05分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 12时21分]"
         }
       ]
     }
