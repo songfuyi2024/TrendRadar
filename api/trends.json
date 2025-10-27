@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T02:26:37.233287+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2025-10-28T03:15:09.446804+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时15分]"
         },
         {
           "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时15分]"
         },
         {
           "title": "特朗普：愿为金正恩延长亚洲行程",
@@ -52,17 +52,6 @@
           "time_info": "[00时34分 ~ 01时15分]"
         },
         {
-          "title": "委内瑞拉副总统兼石油部长Delcy Rodriguez表示，Petroleos de Venezuela董事会要求总统马杜罗撤销与Trinidad（特立尼达拉岛）和Tabago（多巴哥岛）的能源协议，因为这地支持美国特朗普政府“侵犯”委内瑞拉。",
-          "url": "https://wallstreetcn.com/livenews/2994483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
           "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
           "url": "https://wallstreetcn.com/articles/3757964",
           "source": "华尔街见闻",
@@ -70,8 +59,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时15分]"
         },
         {
           "title": "日本天皇用英语说很高兴见到特朗普",
@@ -80,11 +69,38 @@
           "ranks": [
             21,
             17,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时15分]"
+        },
+        {
+          "title": "特朗普：很长时间内不想和加总理见面",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E9%95%BF%E6%97%B6%E9%97%B4%E5%86%85%E4%B8%8D%E6%83%B3%E5%92%8C%E5%8A%A0%E6%80%BB%E7%90%86%E8%A7%81%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            25,
+            16,
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时15分]"
+        },
+        {
+          "title": "委内瑞拉副总统兼石油部长Delcy Rodriguez表示，Petroleos de Venezuela董事会要求总统马杜罗撤销与Trinidad（特立尼达拉岛）和Tabago（多巴哥岛）的能源协议，因为这地支持美国特朗普政府“侵犯”委内瑞拉。",
+          "url": "https://wallstreetcn.com/livenews/2994483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时15分]"
         },
         {
           "title": "特朗普到底薅了全世界多少钱",
@@ -100,17 +116,17 @@
           "time_info": "[00时34分 ~ 02时26分]"
         },
         {
-          "title": "特朗普：很长时间内不想和加总理见面",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E9%95%BF%E6%97%B6%E9%97%B4%E5%86%85%E4%B8%8D%E6%83%B3%E5%92%8C%E5%8A%A0%E6%80%BB%E7%90%86%E8%A7%81%E9%9D%A2",
-          "source": "百度热搜",
+          "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
+          "url": "https://wallstreetcn.com/livenews/2994466",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27,
-            25,
-            16
+            6,
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时15分]"
         },
         {
           "title": "特朗普谈美军机南海坠毁原因",
@@ -122,18 +138,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 00时35分]"
-        },
-        {
-          "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
-          "url": "https://wallstreetcn.com/livenews/2994466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 02时26分]"
         },
         {
           "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
@@ -181,6 +185,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "消息人士：哈马斯称将遵守特朗普计划下的协议。",
+          "url": "https://flash.jin10.com/detail/20251028022338078800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
           "title": "评论员：特朗普在马来西亚双喜临门",
           "url": "https://www.toutiao.com/trending/7565834902130658870/",
           "source": "今日头条",
@@ -202,22 +217,24 @@
           "url": "https://flash.jin10.com/detail/20251028015838753800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时15分]"
         },
         {
           "title": "谷歌公司与NextEra Energy构建合作伙伴关系，将重启美国爱荷华州核电站。（福克斯）",
           "url": "https://wallstreetcn.com/livenews/2994485",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时15分]"
         },
         {
           "title": "谷歌(GOOG.O)：通过Bigtable中的分层存储，可借助单一接口访问和修改热层与冷层中的数据。",
@@ -299,8 +316,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时15分]"
         },
         {
           "title": "卖美债买黄金“中长期并非明智之举”！大摩利率团队：美债终会“闪耀”的",
@@ -310,8 +327,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时15分]"
         }
       ]
     },
@@ -325,11 +342,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时15分]"
         }
       ]
     }
