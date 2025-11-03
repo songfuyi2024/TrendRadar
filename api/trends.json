@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T07:17:01.275725+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2025-11-03T09:19:21.784694+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3758488",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 07时17分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 09时19分]"
         },
         {
           "title": "奥巴马又怼特朗普政府：无法无天！",
@@ -47,11 +48,12 @@
           "ranks": [
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 07时17分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 09时19分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -134,6 +136,28 @@
           "time_info": "[00时18分 ~ 06时17分]"
         },
         {
+          "title": "特朗普：道歉没用，不谈！",
+          "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "特朗普称，他对币安赵长鹏获赦免一事并不了解。",
+          "url": "https://wallstreetcn.com/livenews/2998242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "特朗普主动提“G2” 中国为何不接招",
           "url": "https://www.toutiao.com/trending/7567992516465659442/",
           "source": "今日头条",
@@ -170,56 +194,133 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时16分 ~ 07时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "95 岁巴菲特年底将卸任，伯克希尔现金储备 3817 亿美元再创新高，美股高位背景下，传递出怎样的市场信号？",
-          "url": "https://www.zhihu.com/question/1968075475093034371",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12,
-            10,
-            9,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 07时17分]"
         },
         {
-          "title": "美股三大股指期货周一开盘走高，道指期货0.11涨%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
-          "url": "https://flash.jin10.com/detail/20251103070259111800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "亚市盘初，现货黄金、现货白银小幅低开。 WTI开盘上涨0.6%，此前彭博报道，OPEC+将在明年一季度暂停增产石油。 美股三大股指期货开盘小幅走高，道指期货0.11涨%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
-          "url": "https://wallstreetcn.com/livenews/2998191",
+          "title": "特朗普称有可能在尼日利亚部署地面部队或发动空袭",
+          "url": "https://wallstreetcn.com/livenews/2998237",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时17分"
+          "time_info": "09时19分"
+        },
+        {
+          "title": "市场消息：特朗普称，他对币安赵长鹏获赦免一事并不了解。",
+          "url": "https://flash.jin10.com/detail/20251103085356566800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "特朗普称或军事打击尼日利亚",
+          "url": "https://wallstreetcn.com/livenews/2998231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "如何看特朗普说台海政策是秘密",
+          "url": "https://www.toutiao.com/trending/7568264436717194788/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "特朗普称他不会出席最高法院就关税措施合法性举行的听证会",
+          "url": "https://wallstreetcn.com/livenews/2998222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "奥巴马怼特朗普政府“无法无天”",
+          "url": "https://www.toutiao.com/trending/7567655390914199593/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "特朗普称尚未认真考虑向乌克兰提供“战斧”导弹",
+          "url": "https://wallstreetcn.com/livenews/2998220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "特朗普称尚未认真考虑向乌克兰提供“战斧”导弹",
+          "url": "https://flash.jin10.com/detail/20251103082638885800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "特朗普称或军事打击尼日利亚",
+          "url": "https://flash.jin10.com/detail/20251103082523215800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "学者：特朗普抛G2概念是霸权算计",
+          "url": "https://www.toutiao.com/trending/7568286962377821723/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "特朗普为何威胁对尼日利亚动武",
+          "url": "https://www.toutiao.com/trending/7568275900907654662/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗总统称将重建核设施",
@@ -254,6 +355,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时21分 ~ 02时22分]"
+        },
+        {
+          "title": "伊朗总统：将重建核设施，不生产核武器",
+          "url": "https://news.ifeng.com/c/8nxTWkvLi0L",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "95 岁巴菲特年底将卸任，伯克希尔现金储备 3817 亿美元再创新高，美股高位背景下，传递出怎样的市场信号？",
+          "url": "https://www.zhihu.com/question/1968075475093034371",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            10,
+            9,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 07时17分]"
+        },
+        {
+          "title": "美股三大股指期货周一开盘走高，道指期货0.11涨%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
+          "url": "https://flash.jin10.com/detail/20251103070259111800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "亚市盘初，现货黄金、现货白银小幅低开。 WTI开盘上涨0.6%，此前彭博报道，OPEC+将在明年一季度暂停增产石油。 美股三大股指期货开盘小幅走高，道指期货0.11涨%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
+          "url": "https://wallstreetcn.com/livenews/2998191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         }
       ]
     },
