@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T20:37:55.455288+08:00",
-  "total_titles_processed": 1807,
+  "generated_at": "2025-11-04T21:33:17.091900+08:00",
+  "total_titles_processed": 1901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -82,8 +82,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时20分 ~ 20时37分]"
+          "appearance_count": 27,
+          "time_info": "[00时20分 ~ 21时33分]"
         },
         {
           "title": "特朗普：美核武可毁灭世界150次",
@@ -108,6 +108,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时20分 ~ 16时25分]"
+        },
+        {
+          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
+          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 21时33分]"
         },
         {
           "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
@@ -180,17 +192,6 @@
           "time_info": "[12时20分 ~ 14时28分]"
         },
         {
-          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
-          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 20时37分]"
-        },
-        {
           "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
           "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
           "source": "凤凰网",
@@ -200,6 +201,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时19分 ~ 19时16分]"
+        },
+        {
+          "title": "佩洛西：特朗普是地表最坏的家伙",
+          "url": "https://www.toutiao.com/trending/7567917613335494699/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
         },
         {
           "title": "美国总统特朗普的政府官员们表示，将对“补充营养援助计划”（SNAP）提供局部资金。 特朗普的司法部称，11月份将可以获得50%的食品救济资金。 此前，特朗普政府因为联邦政府关门期间的SNAP资金问题而败诉。",
@@ -236,6 +248,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "特朗普：立即废除参议院冗长议事规则。 废除该规则后共和党将推动所有议程顺利通过。",
+          "url": "https://wallstreetcn.com/livenews/2999237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "特朗普再次呼吁终止参议院冗长议事规则",
+          "url": "https://flash.jin10.com/detail/20251104212729939800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "特朗普称对中国与其打压不如合作",
+          "url": "https://www.toutiao.com/trending/7568736208902324287/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 21时33分]"
         },
         {
           "title": "美国多方“围剿”特朗普只为废除关税",
@@ -312,18 +359,6 @@
           "time_info": "[17时21分 ~ 19时16分]"
         },
         {
-          "title": "特朗普称对中国与其打压不如合作",
-          "url": "https://www.toutiao.com/trending/7568736208902324287/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时16分]"
-        },
-        {
           "title": "强调合作 特朗普为何对华态度转变",
           "url": "https://www.toutiao.com/trending/7568702514976001542/",
           "source": "今日头条",
@@ -334,6 +369,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时19分 ~ 16时25分]"
+        },
+        {
+          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 21时33分]"
         },
         {
           "title": "周泳宏：特朗普想与中国和睦相处",
@@ -407,6 +454,17 @@
           "time_info": "[02时24分 ~ 03时14分]"
         },
         {
+          "title": "特朗普再向中国示好背后原因是什么",
+          "url": "https://www.toutiao.com/trending/7568843465572748827/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
+        },
+        {
           "title": "特朗普对华政策的思路真改变了吗",
           "url": "https://www.toutiao.com/trending/7568756885680033331/",
           "source": "今日头条",
@@ -418,6 +476,17 @@
           "time_info": "17时21分"
         },
         {
+          "title": "美国总统特朗普：共和党将在没有冗长辩论的情况下使所有议案获得批准。",
+          "url": "https://flash.jin10.com/detail/20251104212317020800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-04）",
           "url": "https://flash.jin10.com/detail/20251104185121608800",
           "source": "金十数据",
@@ -427,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "美国总统特朗普呼吁立即终止冗长辩论。",
+          "url": "https://flash.jin10.com/detail/20251104212241216800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "日本首相高市早苗：将与特朗普举行更多会晤以深化关系。",
@@ -515,17 +595,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
         },
         {
           "title": "特朗普威胁对尼日利亚动武，外交部回应",
@@ -629,8 +698,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时16分 ~ 20时37分]"
+          "appearance_count": 17,
+          "time_info": "[09时16分 ~ 21时33分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -689,17 +758,6 @@
           "time_info": "14时28分"
         },
         {
-          "title": "Shopify第三季度营收28.4亿美元，预估27.6亿美元。 三季度营业利润3.43亿美元，预估3.114亿美元。 三季度每股收益0.2美元。 Shopify美股盘前跌超9%。",
-          "url": "https://wallstreetcn.com/livenews/2999213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
           "title": "可选消费ETF收涨超0.9%，和半导体ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/2998765",
           "source": "华尔街见闻-快讯",
@@ -709,17 +767,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
-        },
-        {
-          "title": "优步三季度营收134.7亿美元，预估132.6亿美元。 三季度每股收益3.11美元。 三季度调整后税息折旧及摊销前利润22.6亿美元，预期22.7亿美元。 三季度总预订额497.4亿美元，预估489.6亿美元。 优步预计第四季度调整后税息折旧及摊销前利润将在24.1亿至25.1亿美元之间，市场预估24.9亿美元。 优步预计第四季度总预订额将在522.5亿至537.5亿美元之间，市场预估523.3亿美元。 优步美股盘前一度跌近5%。",
-          "url": "https://wallstreetcn.com/livenews/2999210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
         },
         {
           "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
@@ -759,6 +806,30 @@
           "time_info": "[19时16分 ~ 20时37分]"
         },
         {
+          "title": "Shopify第三季度营收28.4亿美元，预估27.6亿美元。 三季度营业利润3.43亿美元，预估3.114亿美元。 三季度每股收益0.2美元。 Shopify美股盘前跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/2999213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时33分]"
+        },
+        {
+          "title": "优步三季度营收134.7亿美元，预估132.6亿美元。 三季度每股收益3.11美元。 三季度调整后税息折旧及摊销前利润22.6亿美元，预期22.7亿美元。 三季度总预订额497.4亿美元，预估489.6亿美元。 优步预计第四季度调整后税息折旧及摊销前利润将在24.1亿至25.1亿美元之间，市场预估24.9亿美元。 优步预计第四季度总预订额将在522.5亿至537.5亿美元之间，市场预估523.3亿美元。 优步美股盘前一度跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/2999210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时33分]"
+        },
+        {
           "title": "美股盘前，Palantir跌约6%，公司此前公布了三季度财报； 半导体股普跌，英特尔跌约2%，台积电跌约1%，英伟达跌约1%。 中概股多数下跌，阿里巴巴跌约2%，蔚来跌约2%。",
           "url": "https://wallstreetcn.com/livenews/2999122",
           "source": "华尔街见闻-快讯",
@@ -769,6 +840,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时21分 ~ 18时21分]"
+        },
+        {
+          "title": "辉瑞第三季度营收166.5亿美元，预估165.9亿美元。 辉瑞第三季度调整后每股收益0.87美元。 辉瑞仍然预测全年营收610亿美元至640亿美元。 辉瑞预计全年调整后每股收益3-3.15美元，此前预计2.9-3.1美元。 辉瑞美股盘前涨逾2%。",
+          "url": "https://wallstreetcn.com/livenews/2999207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时33分]"
         },
         {
           "title": "美股期货跌幅扩大，纳斯达克100指数期货跌1%，标普500指数期货跌0.75%，道指期货跌0.4%。",
@@ -829,17 +912,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时21分 ~ 18时21分]"
-        },
-        {
-          "title": "辉瑞第三季度营收166.5亿美元，预估165.9亿美元。 辉瑞第三季度调整后每股收益0.87美元。 辉瑞仍然预测全年营收610亿美元至640亿美元。 辉瑞预计全年调整后每股收益3-3.15美元，此前预计2.9-3.1美元。 辉瑞美股盘前涨逾2%。",
-          "url": "https://wallstreetcn.com/livenews/2999207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊涨4%创收盘历史新高，特斯拉和英伟达涨超2%，Meta则跌超2%",
@@ -903,7 +975,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -947,7 +1019,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -961,6 +1033,120 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谷歌母公司Alphabet将美元债券发行金额定在175亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2998716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时21分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet的美元债券发行吸引到大约900亿美元认购需求。",
+          "url": "https://wallstreetcn.com/livenews/2998693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 03时14分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet美元债和欧元债总计发售250亿美元",
+          "url": "https://wallstreetcn.com/livenews/2998790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：实时车道导航功能将拓展至更多道路类型及合作车企车型。",
+          "url": "https://flash.jin10.com/detail/20251104210818012800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：谷歌地图为内置谷歌系统的汽车推出基于人工智能的实时车道指引功能，首发车型为极星4。",
+          "url": "https://flash.jin10.com/detail/20251104210638002800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "30年期美债收益率涨约3.7个基点",
+          "url": "https://wallstreetcn.com/livenews/2998743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时17分]"
+        },
+        {
+          "title": "摩根大通美债客户调查显示净多头占比升至9月29日以来最高",
+          "url": "https://wallstreetcn.com/livenews/2999233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "美国国债价格跌幅扩大，10年期美债收益率则涨约4个基点至4.1202%——突破上周顶部，逼近10月10日盘中最高位4.1384%。 日线图上，10年期美债收益率5月22日达到4.6247%以来，持续震荡下行。",
+          "url": "https://wallstreetcn.com/livenews/2998667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "荷兰国际：美债收益率曲线仍过于平坦",
+          "url": "https://flash.jin10.com/detail/20251104144102291800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
@@ -1019,47 +1205,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌母公司Alphabet将美元债券发行金额定在175亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2998716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时21分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet的美元债券发行吸引到大约900亿美元认购需求。",
-          "url": "https://wallstreetcn.com/livenews/2998693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 03时14分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet美元债和欧元债总计发售250亿美元",
-          "url": "https://wallstreetcn.com/livenews/2998790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -1074,8 +1219,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时17分 ~ 20时37分]"
+          "appearance_count": 19,
+          "time_info": "[06时17分 ~ 21时33分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
@@ -1141,46 +1286,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "30年期美债收益率涨约3.7个基点",
-          "url": "https://wallstreetcn.com/livenews/2998743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时17分]"
-        },
-        {
-          "title": "美国国债价格跌幅扩大，10年期美债收益率则涨约4个基点至4.1202%——突破上周顶部，逼近10月10日盘中最高位4.1384%。 日线图上，10年期美债收益率5月22日达到4.6247%以来，持续震荡下行。",
-          "url": "https://wallstreetcn.com/livenews/2998667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "荷兰国际：美债收益率曲线仍过于平坦",
-          "url": "https://flash.jin10.com/detail/20251104144102291800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
         }
       ]
     },
