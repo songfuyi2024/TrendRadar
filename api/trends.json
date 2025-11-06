@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T05:16:52.970964+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2025-11-07T06:17:59.799906+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时17分]"
         },
         {
           "title": "特朗普为什么总是针对南非？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时17分]"
         },
         {
           "title": "特朗普重申不会出席G20峰会",
@@ -37,8 +37,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时17分]"
         },
         {
           "title": "美国总统特朗普：如果最高法院关于关税的案件进展不顺利，将需要第二套方案。我们还能做其他事情，但相比之下速度较慢。",
@@ -175,6 +175,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时19分]"
+        },
+        {
+          "title": "美国商务部长卢特尼克：如果（国会山）出台合适的法律，将鼓励数字投资。 C5+1平台是总统特朗普策略的基石。",
+          "url": "https://wallstreetcn.com/livenews/3000732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时17分]"
         },
         {
           "title": "美国总统特朗普：我们会安排好去印度的行程，可能是明年。",
@@ -338,18 +350,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美国商务部长卢特尼克：如果（国会山）出台合适的法律，将鼓励数字投资。 C5+1平台是总统特朗普策略的基石。",
-          "url": "https://wallstreetcn.com/livenews/3000732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -376,6 +377,28 @@
           "time_info": "04时19分"
         },
         {
+          "title": "美国财长贝森特：特朗普已明确表示，战争必须立即结束。只要普京继续进行毫无意义的杀戮，石油交易商贡渥集团将永远无法获得经营和获利的许可。",
+          "url": "https://flash.jin10.com/detail/20251107045656671800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "美国法官下令，特朗普政府须在周五前全额拨付补充营养协助计划（SNAP）的食品援助福利资金。",
+          "url": "https://flash.jin10.com/detail/20251107045426106800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
           "title": "美国总统特朗普：美国人必须能够以全球最低的价格购买药品，这是他们的权利。",
           "url": "https://flash.jin10.com/detail/20251107013210117800",
           "source": "金十数据",
@@ -400,87 +423,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
-          "url": "https://www.cls.cn/detail/2193555",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 05时16分]"
-        },
-        {
-          "title": "AI泡沫担忧隐现，OpenAI创始人谈营收和投资承诺",
-          "url": "https://flash.jin10.com/detail/20251107043817547800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们既没有也不想要政府为OpenAI数据中心提供担保。",
-          "url": "https://flash.jin10.com/detail/20251107032640209800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时16分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：OpenAI的数据中心并无政府担保。曾讨论过提供贷款担保以支持半导体制造厂建设。",
-          "url": "https://flash.jin10.com/detail/20251107032614746800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时16分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：预计今年的年化收入将达到200亿美元以上，到2030年预计将增长至数千亿美元。",
-          "url": "https://flash.jin10.com/detail/20251107032458905800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时16分]"
-        },
-        {
-          "title": "OpenAI的CEO Sam Altman：在OpenAI数据中心问题上，并没有获得美国政府的（资金）担保。 讨论过通过（寻求）贷款担保来支持美国半导体晶圆（的可行性）。",
-          "url": "https://wallstreetcn.com/livenews/3000723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 05时16分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -491,8 +435,85 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时17分]"
+        },
+        {
+          "title": "特斯拉股东批准马斯克的1万亿美元薪酬方案，超过75%的股东批准。 特斯拉美股盘后涨1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3000764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "半导体ETF收跌超2.3%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3000758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
+          "url": "https://www.cls.cn/detail/2193592",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "金十图示：2025年11月06日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251107050525569800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "金十图示：2025年11月06日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251107050522071800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "美股收盘：三大股指齐跌 英伟达跌超3%",
+          "url": "https://flash.jin10.com/detail/20251107050145353800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "爱彼迎三季度营收41亿美元，分析师预期40.8亿美元。 三季度调整后EBITDA利润率50%，分析师预期49.9%。 三季度总体预定价值229亿美元，分析师预期221.3亿美元。 预计全年调整后EBITDA利润率35%，公司原本预计至少34.5%。 预计四季度营收26.6亿-27.2亿美元，分析师预期26.7亿美元。 爱彼迎（ABNB）美股盘后涨4.7%。",
+          "url": "https://wallstreetcn.com/livenews/3000744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "美股跌势扩大，道指跌幅达1%，标普500指数跌1.07%，纳指现跌1.73%。",
@@ -552,74 +573,89 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 5,
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
       "titles": [
         {
-          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
+          "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
+          "url": "https://www.cls.cn/detail/2193555",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            5
+            11,
+            10,
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时17分]"
         },
         {
-          "title": "美国就业形势严峻引发降息预期，美股指数集体低开低走，美元承压，黄金短线下挫，美债走高",
-          "url": "https://wallstreetcn.com/articles/3758806",
-          "source": "华尔街见闻",
+          "title": "OpenAI创始人奥尔特曼：我们既没有也不想要政府为OpenAI数据中心提供担保。",
+          "url": "https://flash.jin10.com/detail/20251107032640209800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 05时16分]"
-        },
-        {
-          "title": "标普500指数跌幅扩大至1%，可选消费板块跌2%，科技板块跌1.6%，电信板块跌1%，能源板块涨1.2%。 纳指跌超1.5%，半导体指数跌2.3%。 特朗普政府关门期间，民间机构提供的美国就业数据引发美债价格上涨。",
-          "url": "https://wallstreetcn.com/livenews/3000653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
+            2,
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时19分]"
+          "time_info": "[04时19分 ~ 05时16分]"
         },
         {
-          "title": "美股、黄金、比特币齐跌，日元和美债上涨，投资者静候一波美联储官员的讲话",
-          "url": "https://wallstreetcn.com/livenews/3000636",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI创始人奥尔特曼：OpenAI的数据中心并无政府担保。曾讨论过提供贷款担保以支持半导体制造厂建设。",
+          "url": "https://flash.jin10.com/detail/20251107032614746800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            28
+            3,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时19分]"
+          "time_info": "[04时19分 ~ 05时16分]"
         },
         {
-          "title": "10年期美债收益率跌7个基点，投资者关注疲软的美国就业数据",
-          "url": "https://wallstreetcn.com/livenews/3000730",
+          "title": "OpenAI创始人奥尔特曼：预计今年的年化收入将达到200亿美元以上，到2030年预计将增长至数千亿美元。",
+          "url": "https://flash.jin10.com/detail/20251107032458905800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 05时16分]"
+        },
+        {
+          "title": "AI泡沫担忧隐现，OpenAI创始人谈营收和投资承诺",
+          "url": "https://flash.jin10.com/detail/20251107043817547800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时17分]"
+        },
+        {
+          "title": "OpenAI的CEO Sam Altman：在OpenAI数据中心问题上，并没有获得美国政府的（资金）担保。 讨论过通过（寻求）贷款担保来支持美国半导体晶圆（的可行性）。",
+          "url": "https://wallstreetcn.com/livenews/3000723",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            5,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 05时16分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
@@ -630,8 +666,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时17分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -643,8 +679,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时18分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 06时17分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -653,11 +689,23 @@
           "ranks": [
             29,
             28,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 06时17分]"
+        },
+        {
+          "title": "金价“冲高回落”，投资者关注美联储利率前景",
+          "url": "https://wallstreetcn.com/livenews/3000762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "金价",
@@ -673,8 +721,75 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时17分]"
+        },
+        {
+          "title": "美国就业形势严峻引发降息预期，美股指数集体低开低走，美元承压，黄金短线下挫，美债走高",
+          "url": "https://wallstreetcn.com/articles/3758806",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时17分]"
+        },
+        {
+          "title": "标普500指数跌幅扩大至1%，可选消费板块跌2%，科技板块跌1.6%，电信板块跌1%，能源板块涨1.2%。 纳指跌超1.5%，半导体指数跌2.3%。 特朗普政府关门期间，民间机构提供的美国就业数据引发美债价格上涨。",
+          "url": "https://wallstreetcn.com/livenews/3000653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时19分]"
+        },
+        {
+          "title": "10年期美债收益率跌7个基点，投资者关注疲软的美国就业数据",
+          "url": "https://wallstreetcn.com/livenews/3000730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时17分]"
+        },
+        {
+          "title": "美股、黄金、比特币齐跌，日元和美债上涨，投资者静候一波美联储官员的讲话",
+          "url": "https://wallstreetcn.com/livenews/3000636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时19分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
@@ -700,13 +815,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时16分]"
+        },
+        {
+          "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
+          "url": "https://wallstreetcn.com/articles/3758839",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美元指数6日下跌",
+          "url": "https://flash.jin10.com/detail/20251107052956396800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
         {
           "title": "美元指数下跌0.5%",
           "url": "https://wallstreetcn.com/livenews/3000729",
@@ -714,7 +851,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         }
