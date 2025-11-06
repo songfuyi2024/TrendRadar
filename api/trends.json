@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T15:18:17.472825+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2025-11-06T16:23:30.574954+08:00",
+  "total_titles_processed": 1427,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时16分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[09时16分 ~ 16时23分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -92,8 +92,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时16分 ~ 15时18分]"
+          "appearance_count": 13,
+          "time_info": "[05时16分 ~ 16时23分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -115,8 +115,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 16时23分]"
         },
         {
           "title": "涉及特朗普，BBC被曝严重造假！",
@@ -129,6 +129,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时16分 ~ 12时24分]"
+        },
+        {
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时23分]"
         },
         {
           "title": "美联储理事米兰：ADP小非农就业报告好于预期，这是受人欢迎的意外。 劳动力需求仍然没有我们（特朗普政府）希望看到的那样强劲。 数据表明，（FOMC的政策）利率可以略微低于当前水平。",
@@ -184,17 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
-        },
-        {
-          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
-          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         },
         {
           "title": "据Politico：特朗普的高级顾问表示，总统明年将专注于可负担性问题。",
@@ -416,6 +416,17 @@
           "time_info": "[14时27分 ~ 15时18分]"
         },
         {
+          "title": "法国外贸银行：特朗普关税案若败诉，美贸易政策将陷入更深不确定性之中",
+          "url": "https://flash.jin10.com/detail/20251106160417235800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "「特朗普停掉食品券（snap）可以帮 4000 万美国穷人减肥」这种说法是否正确？",
           "url": "https://www.zhihu.com/question/1969335140732900581",
           "source": "知乎",
@@ -548,6 +559,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "民主党想把特朗普赶下台吗",
+          "url": "https://www.toutiao.com/trending/7569499059413585417/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "美国总统特朗普：预计第三季度GDP增长4.2%或更高。",
           "url": "https://flash.jin10.com/detail/20251106025235863800",
           "source": "金十数据",
@@ -676,8 +698,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时12分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时12分 ~ 16时23分]"
+        },
+        {
+          "title": "美股泡沫有多大？瑞银给出七个观测指标",
+          "url": "https://wallstreetcn.com/articles/3758712",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时16分 ~ 16时23分]"
         },
         {
           "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
@@ -691,19 +726,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时17分 ~ 07时18分]"
-        },
-        {
-          "title": "美股泡沫有多大？瑞银给出七个观测指标",
-          "url": "https://wallstreetcn.com/articles/3758712",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时16分 ~ 15时18分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -1173,6 +1195,91 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时16分 ~ 16时23分]"
+        },
+        {
+          "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时16分]"
+        },
+        {
+          "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
+          "url": "https://flash.jin10.com/detail/20251106011605092800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 03时16分]"
+        },
+        {
+          "title": "10年期美债收益率涨7个基点，美国ADP小非农就业报告和ISM非制造业数据提供支撑",
+          "url": "https://wallstreetcn.com/livenews/3000088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美债惨遭抛售！美国财政部暗示未来将扩大长债发行规模",
+          "url": "https://www.cls.cn/detail/2192526",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "机构：黄金冲关4000美元乏力，强势美债收益率成逆风",
+          "url": "https://flash.jin10.com/detail/20251106142028591800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "标普500指数涨0.25%，纳指涨0.42%，半导体指数涨2.2%。 美国10年期国债收益率短线从4.12%附近拉升至4.14%上方，日内整体涨幅超过5个基点。 两年期美债收益率从3.59%附近“跳空”拉升至3.62%上方，日内涨超4个基点。",
+          "url": "https://wallstreetcn.com/livenews/2999987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 6,
       "titles": [
@@ -1217,7 +1324,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -1242,80 +1349,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时16分 ~ 15时18分]"
-        },
-        {
-          "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 06时16分]"
-        },
-        {
-          "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
-          "url": "https://flash.jin10.com/detail/20251106011605092800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 03时16分]"
-        },
-        {
-          "title": "10年期美债收益率涨7个基点，美国ADP小非农就业报告和ISM非制造业数据提供支撑",
-          "url": "https://wallstreetcn.com/livenews/3000088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "机构：黄金冲关4000美元乏力，强势美债收益率成逆风",
-          "url": "https://flash.jin10.com/detail/20251106142028591800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "标普500指数涨0.25%，纳指涨0.42%，半导体指数涨2.2%。 美国10年期国债收益率短线从4.12%附近拉升至4.14%上方，日内整体涨幅超过5个基点。 两年期美债收益率从3.59%附近“跳空”拉升至3.62%上方，日内涨超4个基点。",
-          "url": "https://wallstreetcn.com/livenews/2999987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
         }
       ]
     },
