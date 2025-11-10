@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T19:15:53.973531+08:00",
-  "total_titles_processed": 1459,
+  "generated_at": "2025-11-10T20:36:03.303091+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
@@ -58,6 +58,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时18分 ~ 09时19分]"
+        },
+        {
+          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            11,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时28分 ~ 20时36分]"
         },
         {
           "title": "“特朗普外交政策，万变不离中国”",
@@ -132,20 +146,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时19分 ~ 12时25分]"
-        },
-        {
-          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            11,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时28分 ~ 19时15分]"
         },
         {
           "title": "美国政府停摆 特朗普享乐被痛批",
@@ -378,6 +378,18 @@
           "time_info": "[04时17分 ~ 06时15分]"
         },
         {
+          "title": "获400亿美元援助后米莱大跳特朗普舞",
+          "url": "https://www.toutiao.com/trending/7570573863009124361/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 20时36分]"
+        },
+        {
           "title": "美国共和党的开支草案包含扭转（政府关门期间实施的）裁员行动的条款。 总统特朗普的白宫支持参议院共和党（最新提出）的开支框架。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/3001713",
           "source": "华尔街见闻-快讯",
@@ -482,17 +494,6 @@
           "time_info": "18时20分"
         },
         {
-          "title": "获400亿美元援助后米莱大跳特朗普舞",
-          "url": "https://www.toutiao.com/trending/7570573863009124361/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
           "title": "拜登为什么罕见出面痛批特朗普",
           "url": "https://www.toutiao.com/trending/7570996784411971126/",
           "source": "今日头条",
@@ -559,6 +560,17 @@
           "time_info": "17时21分"
         },
         {
+          "title": "匈牙利总理欧尔班：只要特朗普还是美国总统，而我还是匈牙利总理，美国就不会对匈牙利实施制裁。",
+          "url": "https://flash.jin10.com/detail/20251110191854398800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "拜登狠批特朗普：让国家蒙羞",
           "url": "https://www.toutiao.com/trending/7569666407429324863/",
           "source": "今日头条",
@@ -576,7 +588,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         }
@@ -584,7 +596,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
@@ -609,11 +621,12 @@
             10,
             4,
             5,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时18分 ~ 19时15分]"
+          "appearance_count": 11,
+          "time_info": "[11时18分 ~ 20时36分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -650,6 +663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 20时36分]"
         },
         {
           "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
@@ -714,8 +738,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时36分]"
         },
         {
           "title": "经济疲软助推降息预期 黄金价格跳涨至两周高点",
@@ -738,6 +762,96 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗外交部发言人：国际原子能机构的检查人员上周到访了伊朗的核设施。",
+          "url": "https://flash.jin10.com/detail/20251110161518791800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "伊朗货币改革将启动：删除4个0",
+          "url": "https://news.ifeng.com/c/8oAZlJ3VC59",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 20时36分]"
+        },
+        {
+          "title": "伊朗将启动货币改革，删除面值末四个零",
+          "url": "https://wallstreetcn.com/livenews/3001716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 06时15分]"
+        },
+        {
+          "title": "伊朗表示，其部分核设施正接受国际原子能机构的检查。",
+          "url": "https://flash.jin10.com/detail/20251110185017704800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "超级AI临界点逼近：OpenAI发出警告",
+          "url": "https://www.toutiao.com/trending/7571055203147845126/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 20时36分]"
+        },
+        {
+          "title": "OpenAI：美国现役军人及退伍军人在退役或离职前12个月内，可免费获得一年的ChatGPT Plus服务。",
+          "url": "https://flash.jin10.com/detail/20251110183752790800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "据Business Insider：OpenAI正在考虑进军消费者健康应用领域。",
+          "url": "https://flash.jin10.com/detail/20251110183215863800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     },
@@ -774,75 +888,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗外交部发言人：国际原子能机构的检查人员上周到访了伊朗的核设施。",
-          "url": "https://flash.jin10.com/detail/20251110161518791800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "伊朗将启动货币改革，删除面值末四个零",
-          "url": "https://wallstreetcn.com/livenews/3001716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时15分]"
-        },
-        {
-          "title": "伊朗表示，其部分核设施正接受国际原子能机构的检查。",
-          "url": "https://flash.jin10.com/detail/20251110185017704800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI：美国现役军人及退伍军人在退役或离职前12个月内，可免费获得一年的ChatGPT Plus服务。",
-          "url": "https://flash.jin10.com/detail/20251110183752790800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "据Business Insider：OpenAI正在考虑进军消费者健康应用领域。",
-          "url": "https://flash.jin10.com/detail/20251110183215863800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "19时15分"
         }
