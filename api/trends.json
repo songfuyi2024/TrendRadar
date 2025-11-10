@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T15:18:16.329068+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2025-11-10T16:26:50.045321+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
@@ -54,6 +54,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时18分 ~ 07时16分]"
+        },
+        {
+          "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
+          "url": "https://www.cls.cn/detail/2195415",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时18分 ~ 16时26分]"
         },
         {
           "title": "哥伦比亚总统警告特朗普和鲁比奥：你们“小心点”。（澎湃）",
@@ -117,19 +131,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时19分 ~ 12时25分]"
-        },
-        {
-          "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
-          "url": "https://www.cls.cn/detail/2195415",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 15时18分]"
         },
         {
           "title": "美国政府停摆 特朗普享乐被痛批",
@@ -351,6 +352,18 @@
           "time_info": "[04时17分 ~ 06时15分]"
         },
         {
+          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 16时26分]"
+        },
+        {
           "title": "美国共和党的开支草案包含扭转（政府关门期间实施的）裁员行动的条款。 总统特朗普的白宫支持参议院共和党（最新提出）的开支框架。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/3001713",
           "source": "华尔街见闻-快讯",
@@ -397,17 +410,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时18分 ~ 12时25分]"
-        },
-        {
-          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 15时18分]"
         },
         {
           "title": "BBC两名高管因特朗普纪录片争议宣布辞职",
@@ -496,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "评论员：美财政已崩特朗普还在画饼",
+          "url": "https://www.toutiao.com/trending/7570986378905783817/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         }
       ]
     },
@@ -515,8 +528,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 15时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 16时26分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -528,8 +541,22 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时18分 ~ 16时26分]"
+        },
+        {
+          "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
+          "url": "https://wallstreetcn.com/articles/3759018",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时18分 ~ 15时18分]"
+          "time_info": "[12时25分 ~ 16时26分]"
         },
         {
           "title": "周一亚太盘初，美股三大指数期货高开，纳指期货涨0.7%。 现货黄金报4005美元/盎司，日内涨0.1%。 WTI原油、布伦特原油周一小幅高开。",
@@ -552,19 +579,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
-          "url": "https://wallstreetcn.com/articles/3759018",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 15时18分]"
         }
       ]
     },
@@ -580,11 +594,12 @@
             24,
             22,
             21,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 15时18分]"
+          "appearance_count": 6,
+          "time_info": "[11时18分 ~ 16时26分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）上海金早盘价为926.44元/克，较国际金价(926.8元/克)，低0.36元/克",
@@ -596,6 +611,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗外交部发言人：国际原子能机构的检查人员上周到访了伊朗的核设施。",
+          "url": "https://flash.jin10.com/detail/20251110161518791800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "伊朗将启动货币改革，删除面值末四个零",
+          "url": "https://wallstreetcn.com/livenews/3001716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 06时15分]"
         }
       ]
     },
@@ -617,20 +661,19 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "伊朗将启动货币改革，删除面值末四个零",
-          "url": "https://wallstreetcn.com/livenews/3001716",
-          "source": "华尔街见闻-快讯",
+          "title": "欧美债券收益率同步上涨，市场寄望美国政府结束停摆",
+          "url": "https://flash.jin10.com/detail/20251110160650766800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            16
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         }
       ]
     }
