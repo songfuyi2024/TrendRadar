@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T14:23:53.456791+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2025-11-15T15:15:33.090466+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
@@ -15,8 +15,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 14时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 15时15分]"
+        },
+        {
+          "title": "特朗普指示司法部调查与爱泼斯坦关联的民主党人",
+          "url": "https://wallstreetcn.com/livenews/3005151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 15时15分]"
         },
         {
           "title": "美国官员：航空公司正敦促美国总统特朗普政府终止强制性航班削减。",
@@ -30,28 +41,6 @@
           "time_info": "01时15分"
         },
         {
-          "title": "特朗普称将向BBC索赔10亿到50亿美元",
-          "url": "https://flash.jin10.com/detail/20251115132619706800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "特朗普指示司法部调查与爱泼斯坦关联的民主党人",
-          "url": "https://wallstreetcn.com/livenews/3005151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
           "title": "美国总统特朗普：我的律师表示，我们将起诉BBC，要求赔偿10亿美元或更多。我们可能会在美国起诉BBC。",
           "url": "https://flash.jin10.com/detail/20251115094016472800",
           "source": "金十数据",
@@ -59,11 +48,25 @@
             5,
             10,
             12,
-            16
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时05分 ~ 15时15分]"
+        },
+        {
+          "title": "美媒爆：美能源部官员将赴白宫，劝阻特朗普重启核武器试验",
+          "url": "https://wallstreetcn.com/livenews/3005141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时05分 ~ 14时23分]"
+          "time_info": "[12时19分 ~ 15时15分]"
         },
         {
           "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
@@ -79,6 +82,20 @@
           "time_info": "[04时19分 ~ 09时14分]"
         },
         {
+          "title": "特朗普：已经书面通知BBC了。 认为（关于）BBC的诉讼会很快结束。",
+          "url": "https://wallstreetcn.com/livenews/3005121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时05分 ~ 15时15分]"
+        },
+        {
           "title": "美国总统特朗普：撤销Donald Korb为财政部官员的提名。",
           "url": "https://wallstreetcn.com/livenews/3005021",
           "source": "华尔街见闻-快讯",
@@ -90,19 +107,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时19分 ~ 06时16分]"
-        },
-        {
-          "title": "美媒爆：美能源部官员将赴白宫，劝阻特朗普重启核武器试验",
-          "url": "https://wallstreetcn.com/livenews/3005141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 14时23分]"
         },
         {
           "title": "特朗普政府下调美国大豆出口前景预测",
@@ -130,6 +134,18 @@
           "time_info": "[01时15分 ~ 02时24分]"
         },
         {
+          "title": "特朗普称将向BBC索赔10亿到50亿美元",
+          "url": "https://flash.jin10.com/detail/20251115132619706800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 15时15分]"
+        },
+        {
           "title": "美国联邦航空管理局（FAA）：空管人员们11月14日开始部分地获得与特朗普政府关门事件相关的薪酬补充发放。",
           "url": "https://wallstreetcn.com/livenews/3004971",
           "source": "华尔街见闻-快讯",
@@ -150,20 +166,6 @@
             13,
             15,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时05分 ~ 14时23分]"
-        },
-        {
-          "title": "特朗普：已经书面通知BBC了。 认为（关于）BBC的诉讼会很快结束。",
-          "url": "https://wallstreetcn.com/livenews/3005121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            21,
-            25,
-            30
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -339,6 +341,17 @@
           "time_info": "[11时05分 ~ 12时19分]"
         },
         {
+          "title": "特朗普发图：歌剧魅影造型男子手持“TRUMP 2028”",
+          "url": "https://flash.jin10.com/detail/20251115141405832800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "特朗普：食品关税豁免在美国没有竞争力。 咖啡价格很快就会走低。 将起诉BBC。 下周某个时候将起诉BBC，要求赔偿10 - 50亿美元。 将打电话给斯塔默，问BBC的事。 预计明年某个时候会有关税红利。 不关心爱泼斯坦的文件是否公开。 考虑向沙特阿拉伯出售战斗机。 希望沙特阿拉伯被纳入亚伯拉罕协议。",
           "url": "https://wallstreetcn.com/livenews/3005094",
           "source": "华尔街见闻-快讯",
@@ -435,8 +448,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 14时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 15时15分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -444,11 +457,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 14时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 15时15分]"
         },
         {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
@@ -460,8 +474,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 14时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 15时15分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -472,8 +486,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时05分 ~ 14时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时05分 ~ 15时15分]"
         },
         {
           "title": "美股费城金银指数收跌0.89%，报294.43点，本周累计上涨5.71%。 纽约证交所ARCA金矿开采商指数收跌1.16%，报2158.20点，本周累涨6.45%。",
@@ -626,8 +640,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 14时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 15时15分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -638,8 +652,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时05分 ~ 14时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时05分 ~ 15时15分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -651,8 +665,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时05分 ~ 14时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时05分 ~ 15时15分]"
         },
         {
           "title": "13F报告显示：高盛集团三季度建仓Figma、BitMine Immersion Technologies、摩根大通国际债券机会ETF等。 增持英伟达、苹果、微软、谷歌等。 减持Enbridge、iShares罗素2000 ETF等。 重仓英伟达、微软、苹果、SPDR标普500 ETF信托、亚马逊。",
@@ -779,8 +793,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时05分 ~ 14时23分]"
+          "appearance_count": 5,
+          "time_info": "[11时05分 ~ 15时15分]"
         },
         {
           "title": "金价",
