@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T17:17:04.093194+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2025-11-16T18:16:39.854893+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
@@ -115,11 +115,12 @@
             5,
             6,
             13,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[14时24分 ~ 18时16分]"
         },
         {
           "title": "特朗普：已对委内瑞拉问题作出决定",
@@ -158,8 +159,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 17时17分]"
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 18时16分]"
         },
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -169,8 +170,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 18时16分]"
         },
         {
           "title": "爱泼斯坦2万份文件揭了特朗普哪些短",
@@ -274,11 +275,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时17分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 18时16分]"
         },
         {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
@@ -313,11 +315,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时17分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 18时16分]"
         }
       ]
     },
@@ -332,11 +335,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时18分 ~ 17时17分]"
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 18时16分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -350,8 +354,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时18分 ~ 17时17分]"
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 18时16分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -396,8 +400,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时18分 ~ 17时17分]"
+          "appearance_count": 23,
+          "time_info": "[00时18分 ~ 18时16分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -419,8 +423,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 17时17分]"
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 18时16分]"
         }
       ]
     }
