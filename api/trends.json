@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T14:25:26.451266+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2025-11-20T15:17:27.773396+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
@@ -69,8 +69,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时08分 ~ 15时17分]"
+        },
+        {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时08分 ~ 14时25分]"
+          "time_info": "[12时19分 ~ 15时17分]"
         },
         {
           "title": "知情人士：特朗普政府考虑暂缓征收半导体关税",
@@ -104,17 +115,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时19分 ~ 14时25分]"
         },
         {
           "title": "特朗普：应起诉鲍威尔",
@@ -212,6 +212,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时14分 ~ 11时08分]"
+        },
+        {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 15时17分]"
         },
         {
           "title": "美国总统特朗普：马斯克，我支持你。",
@@ -413,17 +425,6 @@
           "time_info": "05时14分"
         },
         {
-          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
-          "url": "https://www.cls.cn/detail/2205764",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
           "title": "美国总统特朗普：我们将与沙特阿拉伯、阿联酋、埃及及其他中东伙伴合作，以结束苏丹的暴行。",
           "url": "https://flash.jin10.com/detail/20251120031735083800",
           "source": "金十数据",
@@ -507,7 +508,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -603,8 +604,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时16分 ~ 14时25分]"
+          "appearance_count": 10,
+          "time_info": "[07时16分 ~ 15时17分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -617,8 +618,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时16分 ~ 14时25分]"
+          "appearance_count": 12,
+          "time_info": "[06时16分 ~ 15时17分]"
         },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -795,7 +796,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -832,11 +833,12 @@
             9,
             11,
             10,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 14时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 15时17分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -847,11 +849,12 @@
             7,
             5,
             6,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时16分 ~ 14时25分]"
+          "appearance_count": 20,
+          "time_info": "[01时16分 ~ 15时17分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -864,8 +867,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时25分 ~ 14时25分]"
+          "appearance_count": 18,
+          "time_info": "[02时25分 ~ 15时17分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -935,6 +938,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
+        },
+        {
+          "title": "谷歌：在中国台北启用新的硬件工程中心。",
+          "url": "https://wallstreetcn.com/livenews/3007704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "谷歌(GOOG.O)：在台湾地区开设人工智能基础设施工程中心。",
@@ -1197,8 +1211,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
         {
           "title": "美联储纪要公布后金价回吐涨幅 市场聚焦利率路径线索",
           "url": "https://flash.jin10.com/detail/20251120040028916800",
