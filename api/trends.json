@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T21:21:56.807981+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2025-11-22T22:14:35.383089+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时15分 ~ 21时21分]"
+          "appearance_count": 12,
+          "time_info": "[15时15分 ~ 22时14分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -33,8 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时02分 ~ 21时21分]"
+          "appearance_count": 16,
+          "time_info": "[11时02分 ~ 22时14分]"
         },
         {
           "title": "特朗普喊话泽连斯基：必须接受，因为你无牌可打",
@@ -69,8 +69,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时23分 ~ 21时21分]"
+          "appearance_count": 13,
+          "time_info": "[14时23分 ~ 22时14分]"
         },
         {
           "title": "特朗普批鲍威尔：想立刻炒了你",
@@ -163,15 +163,15 @@
           "time_info": "[14时23分 ~ 17时17分]"
         },
         {
-          "title": "加拿大政府：双方均对美国总统特朗普的领导及其旨在结束加沙战争的全面和平计划表示欢迎。",
-          "url": "https://flash.jin10.com/detail/20251122202749920800",
-          "source": "金十数据",
+          "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009012",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时21分"
+          "time_info": "22时14分"
         },
         {
           "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
@@ -290,6 +290,18 @@
           "time_info": "[11时02分 ~ 14时23分]"
         },
         {
+          "title": "加拿大政府：双方均对美国总统特朗普的领导及其旨在结束加沙战争的全面和平计划表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20251122202749920800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 22时14分]"
+        },
+        {
           "title": "美国总统特朗普：我将立即终止对明尼苏达州索马里人的临时保护身份。",
           "url": "https://flash.jin10.com/detail/20251122093844139800",
           "source": "金十数据",
@@ -405,6 +417,18 @@
           "time_info": "[00时21分 ~ 01时15分]"
         },
         {
+          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 22时14分]"
+        },
+        {
           "title": "美国总统特朗普：我并没有向民主党议员发出“死亡/死刑威胁”。",
           "url": "https://wallstreetcn.com/livenews/3008796",
           "source": "华尔街见闻-快讯",
@@ -452,6 +476,28 @@
           "time_info": "[04时19分 ~ 04时20分]"
         },
         {
+          "title": "欧洲称特朗普关于乌克兰的方案仍需”完善”。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "纽约市长在特朗普面前言论“大变脸”",
+          "url": "https://wallstreetcn.com/livenews/3009006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "特朗普介入俄罗斯冻结资产利用争议 欧盟官员斥其“可耻”",
           "url": "https://flash.jin10.com/detail/20251122015337062800",
           "source": "金十数据",
@@ -461,17 +507,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
-        },
-        {
-          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
         },
         {
           "title": "美国总统特朗普：伊朗想要达成协议，我们很可能会达成一个。",
@@ -644,8 +679,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时15分 ~ 21时21分]"
+          "appearance_count": 18,
+          "time_info": "[07时15分 ~ 22时14分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -694,8 +729,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时16分 ~ 21时21分]"
+          "appearance_count": 8,
+          "time_info": "[18时16分 ~ 22时14分]"
         },
         {
           "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
@@ -921,11 +956,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时29分 ~ 21时21分]"
+          "appearance_count": 4,
+          "time_info": "[20时29分 ~ 22时14分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -939,6 +975,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时02分 ~ 15时15分]"
+        },
+        {
+          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
+          "url": "https://wallstreetcn.com/articles/3759917",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时29分 ~ 22时14分]"
         },
         {
           "title": "谷歌反垄断案：美国法官询问拆分广告技术业务的补救措施生效时间，称“时间至关重要”",
@@ -964,18 +1013,6 @@
           "time_info": "[19时12分 ~ 20时30分]"
         },
         {
-          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
-          "url": "https://wallstreetcn.com/articles/3759917",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时29分 ~ 21时21分]"
-        },
-        {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
           "url": "https://flash.jin10.com/detail/20251122020035429800",
           "source": "金十数据",
@@ -988,6 +1025,18 @@
           "time_info": "[02时23分 ~ 03时15分]"
         },
         {
+          "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
+          "url": "https://wallstreetcn.com/articles/3759896",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 22时14分]"
+        },
+        {
           "title": "谷歌推出BigQuery AI",
           "url": "https://wallstreetcn.com/livenews/3008826",
           "source": "华尔街见闻-快讯",
@@ -998,17 +1047,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 03时15分]"
-        },
-        {
-          "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
-          "url": "https://wallstreetcn.com/articles/3759896",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
         },
         {
           "title": "谷歌：我们推出BigQuery AI。",
