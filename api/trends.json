@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T19:16:37.730664+08:00",
-  "total_titles_processed": 1682,
+  "generated_at": "2025-11-26T20:37:16.871297+08:00",
+  "total_titles_processed": 1818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 68,
       "titles": [
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -20,6 +20,21 @@
           "time_info": "[00时23分 ~ 07时16分]"
         },
         {
+          "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[06时17分 ~ 20时37分]"
+        },
+        {
           "title": "特朗普电话后，日本沮丧了三次",
           "url": "https://news.ifeng.com/c/8oaWYOeMQ8b",
           "source": "凤凰网",
@@ -31,20 +46,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[09时17分 ~ 19时16分]"
-        },
-        {
-          "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时17分 ~ 19时16分]"
         },
         {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
@@ -100,6 +101,18 @@
           "time_info": "[09时17分 ~ 15时17分]"
         },
         {
+          "title": "中方是否请特朗普向高市传口信？外交部回应",
+          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时23分 ~ 20时37分]"
+        },
+        {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
           "url": "https://news.ifeng.com/c/8oZtlTWZHWZ",
           "source": "凤凰网",
@@ -109,18 +122,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时23分 ~ 07时16分]"
-        },
-        {
-          "title": "中方是否请特朗普向高市传口信？外交部回应",
-          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时23分 ~ 19时16分]"
         },
         {
           "title": "特朗普与高市早苗通话",
@@ -141,11 +142,12 @@
           "ranks": [
             4,
             2,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时23分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[16时23分 ~ 20时37分]"
         },
         {
           "title": "特朗普：俄乌和平协议已“非常接近达成”",
@@ -198,6 +200,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时17分 ~ 13时18分]"
+        },
+        {
+          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
+          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时23分 ~ 20时37分]"
         },
         {
           "title": "特朗普电话后日本沮丧了三次",
@@ -260,18 +274,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
-        },
-        {
-          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
-          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时23分 ~ 19时16分]"
         },
         {
           "title": "美国总统特朗普：陆军部长德里斯科尔将与乌克兰人会面。",
@@ -548,7 +550,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -617,6 +619,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
+        },
+        {
+          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "特朗普 先达成协议再说",
@@ -740,6 +753,17 @@
           "time_info": "02时26分"
         },
         {
+          "title": "俄罗斯副外长里亚布科夫：特朗普政府一直在释放改善美俄关系的信号，但仍然向乌克兰提供武器和情报 俄美外交正常化工作仍在继续，但恢复航空和其他领域方面没有取得重大进展。 俄罗斯在乌克兰问题的关键议题上没有做出任何让步。",
+          "url": "https://wallstreetcn.com/livenews/3010854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "斯洛伐克外交部：斯洛伐克支持美国总统特朗普的乌克兰和平计划，并呼吁欧洲伙伴在这一进程中充分合作。",
           "url": "https://flash.jin10.com/detail/20251126153301745800",
           "source": "金十数据",
@@ -773,6 +797,17 @@
           "time_info": "09时17分"
         },
         {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.toutiao.com/trending/7576901878579990070/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "特朗普：我们从华盛顿特区撤离了1700人。",
           "url": "https://flash.jin10.com/detail/20251126011811118800",
           "source": "金十数据",
@@ -787,7 +822,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -795,11 +830,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时17分 ~ 19时16分]"
+          "appearance_count": 13,
+          "time_info": "[09时17分 ~ 20时37分]"
         },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -825,6 +861,20 @@
           "time_info": "[00时23分 ~ 06时17分]"
         },
         {
+          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
+          "url": "https://wallstreetcn.com/articles/3760117",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时17分 ~ 20时37分]"
+        },
+        {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
           "url": "https://www.cls.cn/detail/2210921",
           "source": "财联社热门",
@@ -835,19 +885,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时17分 ~ 15时17分]"
-        },
-        {
-          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
-          "url": "https://wallstreetcn.com/articles/3760117",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时17分 ~ 19时16分]"
         },
         {
           "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
@@ -888,6 +925,21 @@
           "time_info": "[00时23分 ~ 07时16分]"
         },
         {
+          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
+          "url": "https://www.cls.cn/detail/2211188",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            6,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时27分 ~ 20时37分]"
+        },
+        {
           "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
           "url": "https://wallstreetcn.com/articles/3760084",
           "source": "华尔街见闻",
@@ -900,20 +952,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时13分 ~ 16时24分]"
-        },
-        {
-          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
-          "url": "https://www.cls.cn/detail/2211188",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时27分 ~ 19时16分]"
         },
         {
           "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
@@ -983,11 +1021,12 @@
           "url": "https://wallstreetcn.com/articles/3760114",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时16分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时37分]"
         },
         {
           "title": "英伟达“市值神话”为何被谷歌击穿",
@@ -1061,13 +1100,24 @@
           "time_info": "[17时20分 ~ 18时20分]"
         },
         {
+          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
+          "url": "https://wallstreetcn.com/articles/3760128",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "金十整理：谷歌11月狂炸英伟达，巴菲特谢幕押注精准，软银躺枪",
           "url": "https://flash.jin10.com/detail/20251126182610952800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1100,7 +1150,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1283,7 +1333,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1315,6 +1365,19 @@
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
+        {
+          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
+          "url": "https://www.cls.cn/detail/2211503",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 20时37分]"
+        },
         {
           "title": "据The Information：截至7月，约有3500万人支付了ChatGPT Plus或Pro订阅费用，通常每月花费20美元和200美元。",
           "url": "https://flash.jin10.com/detail/20251126090658105800",
@@ -1349,18 +1412,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时20分 ~ 06时17分]"
-        },
-        {
-          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
-          "url": "https://www.cls.cn/detail/2211503",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时16分]"
         },
         {
           "title": "OpenAI预计：到2030年，将至少有2.2亿人付费使用ChatGPT",
