@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T14:27:41.499249+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2025-11-26T15:17:59.868120+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时17分 ~ 14时27分]"
+          "appearance_count": 9,
+          "time_info": "[06时17分 ~ 15时17分]"
         },
         {
           "title": "【早报】特朗普：俄乌和平协议已“非常接近达成”；商业航天，迎来政策利好",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时17分 ~ 14时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 15时17分]"
         },
         {
           "title": "特朗普与中方通话后致电高市早苗，专家：信号明确",
@@ -66,8 +66,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时17分 ~ 14时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 15时17分]"
         },
         {
           "title": "特朗普电话后，日本沮丧了三次",
@@ -78,8 +78,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时17分 ~ 14时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 15时17分]"
         },
         {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
@@ -105,18 +105,6 @@
           "time_info": "[00时23分 ~ 07时16分]"
         },
         {
-          "title": "特朗普电话后 日本沮丧了三次",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%B5%E8%AF%9D%E5%90%8E+%E6%97%A5%E6%9C%AC%E6%B2%AE%E4%B8%A7%E4%BA%86%E4%B8%89%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时17分 ~ 13时18分]"
-        },
-        {
           "title": "特朗普：俄乌和平协议已“非常接近达成”",
           "url": "https://www.cls.cn/detail/2210903",
           "source": "财联社热门",
@@ -128,8 +116,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 14时27分]"
+          "appearance_count": 8,
+          "time_info": "[07时16分 ~ 15时17分]"
         },
         {
           "title": "俄乌战争转机来了？特朗普：已“非常接近达成”和平协议，仅剩少数细节！",
@@ -141,8 +129,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 15时17分]"
         },
         {
           "title": "美国财长预告：特朗普“极有可能”在1个月内提名新美联储主席",
@@ -154,8 +142,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时17分 ~ 14时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 15时17分]"
+        },
+        {
+          "title": "2026年11月深圳的APEC会议，特朗普要来了？",
+          "url": "https://news.ifeng.com/c/8oZweOPfKbO",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 15时17分]"
+        },
+        {
+          "title": "特朗普电话后 日本沮丧了三次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%B5%E8%AF%9D%E5%90%8E+%E6%97%A5%E6%9C%AC%E6%B2%AE%E4%B8%A7%E4%BA%86%E4%B8%89%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时17分 ~ 13时18分]"
         },
         {
           "title": "特朗普电话后日本沮丧了三次",
@@ -170,25 +182,13 @@
           "time_info": "[11时13分 ~ 13时18分]"
         },
         {
-          "title": "2026年11月深圳的APEC会议，特朗普要来了？",
-          "url": "https://news.ifeng.com/c/8oZweOPfKbO",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时17分 ~ 14时27分]"
-        },
-        {
           "title": "特朗普想把特赦火鸡命名为佩洛西",
           "url": "https://www.douyin.com/hot/2318082",
           "source": "抖音",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -205,6 +205,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时17分 ~ 14时27分]"
+        },
+        {
+          "title": "美财长：特朗普明年或两次访华",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%B4%A2%E9%95%BF%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%8E%E5%B9%B4%E6%88%96%E4%B8%A4%E6%AC%A1%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            22,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 15时17分]"
         },
         {
           "title": "特朗普：俄乌和平计划只剩少数争议点 特使将赴莫斯科与普京会谈",
@@ -227,19 +241,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
-        },
-        {
-          "title": "美财长：特朗普明年或两次访华",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%B4%A2%E9%95%BF%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%8E%E5%B9%B4%E6%88%96%E4%B8%A4%E6%AC%A1%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时27分]"
         },
         {
           "title": "乌克兰总统泽连斯基希望尽快会见美国总统特朗普。（Axios）",
@@ -462,6 +463,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "刚见面不久特朗普为何急着和中方通话",
+          "url": "https://www.toutiao.com/trending/7575911692447055908/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "美国总统特朗普：期待能尽快与泽连斯基和普京会面，但前提是结束这场战争的协议已经敲定或处于最后阶段。",
           "url": "https://flash.jin10.com/detail/20251126033601685800",
           "source": "金十数据",
@@ -664,8 +676,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时17分 ~ 14时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 15时17分]"
         },
         {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
@@ -676,8 +688,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时17分 ~ 14时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 15时17分]"
+        },
+        {
+          "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
+          "url": "https://www.cls.cn/detail/2210906",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时16分 ~ 15时17分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -705,19 +730,6 @@
           "time_info": "[00时23分 ~ 07时16分]"
         },
         {
-          "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
-          "url": "https://www.cls.cn/detail/2210906",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 14时27分]"
-        },
-        {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
           "url": "https://wallstreetcn.com/articles/3760117",
           "source": "华尔街见闻",
@@ -726,8 +738,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时17分 ~ 14时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 15时17分]"
         },
         {
           "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
@@ -737,8 +749,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 15时17分]"
         },
         {
           "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
@@ -750,8 +762,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 15时17分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -827,6 +839,18 @@
           "time_info": "[09时17分 ~ 11时13分]"
         },
         {
+          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
+          "url": "https://www.cls.cn/detail/2211188",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 15时17分]"
+        },
+        {
           "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
           "url": "https://www.cls.cn/detail/2211111",
           "source": "财联社热门",
@@ -836,17 +860,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时17分 ~ 13时18分]"
-        },
-        {
-          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
-          "url": "https://www.cls.cn/detail/2211188",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
         },
         {
           "title": "如何评价谷歌 TPU 业务？",
@@ -1171,7 +1184,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
