@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T20:35:05.401714+08:00",
-  "total_titles_processed": 1716,
+  "generated_at": "2025-11-28T21:29:21.725478+08:00",
+  "total_titles_processed": 1804,
   "failed_sources": [],
   "trends": [
     {
@@ -58,8 +58,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时09分 ~ 20时35分]"
+          "appearance_count": 12,
+          "time_info": "[11时09分 ~ 21时29分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -368,7 +368,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -477,7 +477,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -554,8 +554,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时15分 ~ 20时35分]"
+          "appearance_count": 18,
+          "time_info": "[07时15分 ~ 21时29分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -582,8 +582,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时17分 ~ 20时35分]"
+          "appearance_count": 10,
+          "time_info": "[15时17分 ~ 21时29分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
@@ -725,8 +725,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时14分 ~ 20时35分]"
+          "appearance_count": 16,
+          "time_info": "[09时14分 ~ 21时29分]"
         },
         {
           "title": "分析：美股股指势将结束连胜势头，罕见在11月收跌",
