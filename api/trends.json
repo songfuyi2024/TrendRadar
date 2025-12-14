@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T13:18:16.822146+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2025-12-14T14:25:58.656067+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 13时18分]"
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 14时25分]"
         },
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
@@ -121,8 +121,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 13时18分]"
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 14时25分]"
         },
         {
           "title": "美国与墨西哥达成供水协议，此前特朗普威胁要加征5%的关税",
@@ -157,8 +157,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 14时25分]"
         },
         {
           "title": "特朗普对其经济政策能否助力中期选举存疑",
@@ -166,11 +166,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 14时25分]"
         },
         {
           "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
@@ -200,11 +201,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 14时25分]"
         },
         {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
@@ -345,11 +347,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 14时25分]"
         }
       ]
     },
@@ -364,11 +367,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 13时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 14时25分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -412,11 +416,12 @@
           "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 14时25分]"
         }
       ]
     }
