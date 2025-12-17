@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T15:20:58.481049+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2025-12-17T16:26:15.123978+08:00",
+  "total_titles_processed": 1496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -123,6 +123,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时20分 ~ 16时26分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于明天前往多佛空军基地，出席在叙利亚阵亡美军士兵的移交仪式。",
@@ -262,15 +274,16 @@
           "time_info": "[05时18分 ~ 06时17分]"
         },
         {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
+          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
+          "url": "https://www.cls.cn/detail/2231712",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时20分 ~ 15时20分]"
+          "time_info": "[14时28分 ~ 16时26分]"
         },
         {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
@@ -317,6 +330,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时16分 ~ 11时18分]"
+        },
+        {
+          "title": "白宫幕僚长尖锐点评特朗普、马斯克等人，却获白宫力挺",
+          "url": "https://news.ifeng.com/c/8p9nCXu9FDv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 16时26分]"
         },
         {
           "title": "美国总统特朗普料将为了遴选美联储主席而在周三面试美联储理事沃勒。（华尔街日报）",
@@ -379,15 +403,15 @@
           "time_info": "[04时21分 ~ 05时18分]"
         },
         {
-          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
-          "url": "https://www.cls.cn/detail/2231712",
+          "title": "特朗普签署公告 进一步限制外国公民入境美国",
+          "url": "https://www.cls.cn/detail/2231615",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
+          "time_info": "[16时25分 ~ 16时26分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普没有比Wiles更棒或更忠诚的顾问了。 有关Vanity Fair（名利场）的大部分内容失实。",
