@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T22:18:44.497425+08:00",
-  "total_titles_processed": 1822,
+  "generated_at": "2025-12-22T23:19:36.168854+08:00",
+  "total_titles_processed": 1907,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时25分 ~ 22时18分]"
+          "appearance_count": 8,
+          "time_info": "[17时25分 ~ 23时19分]"
         },
         {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
@@ -84,8 +84,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时37分 ~ 22时18分]"
+          "appearance_count": 14,
+          "time_info": "[12时37分 ~ 23时19分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -171,6 +171,17 @@
           "time_info": "[14时30分 ~ 19时16分]"
         },
         {
+          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时25分 ~ 23时19分]"
+        },
+        {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
           "url": "https://wallstreetcn.com/livenews/3024442",
           "source": "华尔街见闻-快讯",
@@ -206,17 +217,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时30分 ~ 16时26分]"
-        },
-        {
-          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
-          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时25分 ~ 22时18分]"
         },
         {
           "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
@@ -341,6 +341,17 @@
           "time_info": "16时26分"
         },
         {
+          "title": "白宫官员：美国总统特朗普和美国国防部长赫格塞思将于周一就造船业发表声明。",
+          "url": "https://flash.jin10.com/detail/20251222225324934800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "市场消息：在美国总统特朗普任命格陵兰岛特使后，丹麦外交大臣长将召见美国驻丹麦大使。",
           "url": "https://flash.jin10.com/detail/20251222174043679800",
           "source": "金十数据",
@@ -399,7 +410,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
@@ -465,8 +476,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 23时19分]"
         },
         {
           "title": "英伟达美股盘前拉升， 现涨近2%。",
@@ -515,6 +526,18 @@
           "time_info": "[20时36分 ~ 21时32分]"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3025002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时19分]"
+        },
+        {
           "title": "霍尼韦尔预计全年调整后销售额为375亿-377亿美元，此前预期为407亿-409亿美元。 霍尼韦尔预计全年调整后每股收益为9.70-9.80美元（剔除先进材料业务影响后）。 霍尼韦尔预计第四季度调整后销售额为98亿-100亿美元，此前预期为101亿-103亿美元。 霍尼韦尔预计第四季度调整后每股收益为2.48-2.58美元，此前预期为2.52-2.62美元。 霍尼韦尔美股盘前跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3024927",
           "source": "华尔街见闻-快讯",
@@ -527,15 +550,15 @@
           "time_info": "[20时36分 ~ 21时32分]"
         },
         {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3025002",
+          "title": "华纳兄弟探索公司（WBD）美股盘初涨3.9%，Paramount SkyDance（派拉蒙天舞）涨3.3%。",
+          "url": "https://wallstreetcn.com/livenews/3025024",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时18分"
+          "time_info": "23时19分"
         },
         {
           "title": "英伟达美股盘前拉升， 现涨近2%",
@@ -549,13 +572,35 @@
           "time_info": "21时32分"
         },
         {
+          "title": "行业ETF美股盘初普遍上涨，半导体ETF、能源业ETF至多涨1.53%，全球科技股指数ETF、银行业ETF、科技行业ETF至多涨0.89%，网络股指数ETF涨0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3025022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "金十图示：2025年12月22日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251222223624364800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2025-12-22）",
           "url": "https://flash.jin10.com/detail/20251222212925989800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         }
@@ -650,8 +695,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时36分 ~ 22时18分]"
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 23时19分]"
         },
         {
           "title": "伊朗要下场帮委内瑞拉了吗",
@@ -878,6 +923,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY日内下跌0.50%，现报98.24。英镑兑美元GBP/USD涨至1.3457，创10月17日以来新高。",
+          "url": "https://flash.jin10.com/detail/20251222223718248800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         }
       ]
     }
