@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T21:32:47.207328+08:00",
-  "total_titles_processed": 1739,
+  "generated_at": "2025-12-22T22:18:44.497425+08:00",
+  "total_titles_processed": 1822,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,17 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时25分 ~ 22时18分]"
+        },
+        {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
           "url": "https://wallstreetcn.com/articles/3761799",
           "source": "华尔街见闻",
@@ -57,17 +68,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时20分 ~ 18时20分]"
-        },
-        {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时25分 ~ 21时32分]"
         },
         {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
@@ -84,8 +84,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时37分 ~ 21时32分]"
+          "appearance_count": 13,
+          "time_info": "[12时37分 ~ 22时18分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -215,8 +215,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时25分 ~ 21时32分]"
+          "appearance_count": 7,
+          "time_info": "[17时25分 ~ 22时18分]"
         },
         {
           "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
@@ -288,11 +288,12 @@
           "ranks": [
             27,
             17,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 21时32分]"
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 22时18分]"
         },
         {
           "title": "丹麦对特朗普任命格陵兰岛特使深感不满",
@@ -324,7 +325,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -398,7 +399,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
@@ -440,8 +441,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时22分 ~ 21时32分]"
+          "appearance_count": 9,
+          "time_info": "[15时22分 ~ 22时18分]"
         },
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
@@ -457,6 +458,17 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
+          "title": "科技股反弹引领市场！美股期货走高，“Mag7”普涨，英伟达盘前涨2%，甲骨文涨超2%，油价反弹超2%",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时18分]"
+        },
+        {
           "title": "英伟达美股盘前拉升， 现涨近2%。",
           "url": "https://wallstreetcn.com/livenews/3024963",
           "source": "华尔街见闻-快讯",
@@ -466,17 +478,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
-        },
-        {
-          "title": "科技股反弹引领市场！美股期货走高，“Mag7”普涨，英伟达盘前涨2%，甲骨文涨超2%，油价反弹超2%",
-          "url": "https://wallstreetcn.com/articles/3761821",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
@@ -526,15 +527,37 @@
           "time_info": "[20时36分 ~ 21时32分]"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3025002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "英伟达美股盘前拉升， 现涨近2%",
           "url": "https://wallstreetcn.com/livenews/3024963",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-22）",
+          "url": "https://flash.jin10.com/detail/20251222212925989800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     },
@@ -620,6 +643,17 @@
           "time_info": "[11时31分 ~ 17时26分]"
         },
         {
+          "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
+          "url": "https://news.ifeng.com/c/8pIUWrKwH7S",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 22时18分]"
+        },
+        {
           "title": "伊朗要下场帮委内瑞拉了吗",
           "url": "https://www.toutiao.com/trending/7586586005637959214/",
           "source": "今日头条",
@@ -645,24 +679,13 @@
           "time_info": "[19时16分 ~ 20时36分]"
         },
         {
-          "title": "伊朗军队司令：伊朗正在密切监视敌人动向",
-          "url": "https://news.ifeng.com/c/8pIUWrKwH7S",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 21时32分]"
-        },
-        {
           "title": "专家：伊朗军事能力恢复令以色列不安",
           "url": "https://www.toutiao.com/trending/7586595603497356842/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
