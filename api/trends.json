@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T13:22:37.486992+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2025-12-22T14:31:40.759709+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -41,8 +41,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 13时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 14时31分]"
+        },
+        {
+          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[03时14分 ~ 14时31分]"
         },
         {
           "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
@@ -55,8 +69,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时24分 ~ 13时22分]"
+          "appearance_count": 12,
+          "time_info": "[02时24分 ~ 14时31分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
@@ -70,20 +84,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时24分 ~ 07时16分]"
-        },
-        {
-          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时14分 ~ 13时22分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -125,6 +125,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 06时17分]"
+        },
+        {
+          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
+          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 14时31分]"
+        },
+        {
+          "title": "特朗普表态：必须是“超级鸽派”！",
+          "url": "https://news.ifeng.com/c/8pI2JngwUGB",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 14时31分]"
         },
         {
           "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
@@ -177,27 +200,17 @@
           "time_info": "11时31分"
         },
         {
-          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
-          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 13时22分]"
-        },
-        {
           "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
           "url": "https://www.cls.cn/detail/2235857",
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 14时31分]"
         },
         {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
@@ -207,8 +220,19 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 14时31分]"
+        },
+        {
+          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
+          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时37分 ~ 13时22分]"
+          "time_info": "[14时30分 ~ 14时31分]"
         },
         {
           "title": "特朗普任命美国格陵兰岛特使",
@@ -423,11 +447,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 14时31分]"
         }
       ]
     },
@@ -446,8 +471,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 13时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 14时31分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -458,8 +483,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 14时31分]"
         }
       ]
     },
