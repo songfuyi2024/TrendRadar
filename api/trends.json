@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T15:22:08.375625+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2025-12-24T16:26:06.297859+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "time_info": "[00时23分 ~ 13时21分]"
         },
         {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时20分 ~ 16时26分]"
+        },
+        {
           "title": "特朗普将建特朗普级新型战舰",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
           "source": "bilibili 热搜",
@@ -48,8 +60,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 15时22分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 16时26分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -62,11 +74,12 @@
             19,
             20,
             21,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 15时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 16时26分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -96,6 +109,19 @@
           "time_info": "[09时20分 ~ 15时22分]"
         },
         {
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时22分 ~ 16时26分]"
+        },
+        {
           "title": "布林肯为何对特朗普发出严厉警告",
           "url": "https://www.toutiao.com/trending/7587029251379957291/",
           "source": "今日头条",
@@ -113,18 +139,6 @@
           "time_info": "[01时18分 ~ 07时17分]"
         },
         {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时20分 ~ 15时22分]"
-        },
-        {
           "title": "美军将建造“特朗普级”战舰",
           "url": "https://www.douyin.com/hot/2345209",
           "source": "抖音",
@@ -136,18 +150,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[04时19分 ~ 13时21分]"
-        },
-        {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 15时22分]"
         },
         {
           "title": "“特朗普级”新型战列舰命名打破惯例",
@@ -677,7 +679,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
@@ -729,13 +731,24 @@
           "time_info": "[09时20分 ~ 11时22分]"
         },
         {
+          "title": "金价银价铜价均创历史新高",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E9%93%9C%E4%BB%B7%E5%9D%87%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 16时26分]"
+        },
+        {
           "title": "金十图示：2025年12月24日（周三）上海金午盘价为1008.94元/克，较国际金价(1012.11元/克)，低3.17元/克",
           "url": "https://flash.jin10.com/detail/20251224150502225800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -818,38 +831,21 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
+      "keyword_group": "伊朗",
+      "match_count": 3,
       "titles": [
         {
-          "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
-          "url": "https://wallstreetcn.com/articles/3761906",
-          "source": "华尔街见闻",
+          "title": "伊朗为何愿联合委内瑞拉对抗美威胁",
+          "url": "https://www.toutiao.com/trending/7587300342778301988/",
+          "source": "今日头条",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时20分 ~ 15时22分]"
-        },
-        {
-          "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
-          "url": "https://wallstreetcn.com/livenews/3025757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
+            7,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
+          "time_info": "[16时25分 ~ 16时26分]"
+        },
         {
           "title": "伊朗在安理会感谢中国",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD",
@@ -872,6 +868,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
+          "url": "https://wallstreetcn.com/articles/3761906",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时20分 ~ 16时26分]"
+        },
+        {
+          "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
+          "url": "https://wallstreetcn.com/livenews/3025757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时17分]"
         }
       ]
     },
