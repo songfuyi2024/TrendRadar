@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:19:18.523869+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2025-12-26T19:17:01.737796+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时22分 ~ 18时19分]"
+          "appearance_count": 12,
+          "time_info": "[11时22分 ~ 19时17分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -120,6 +120,17 @@
           "time_info": "[02时25分 ~ 06时17分]"
         },
         {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 19时17分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
           "url": "https://flash.jin10.com/detail/20251226001306612800",
           "source": "金十数据",
@@ -132,17 +143,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时16分 ~ 04时20分]"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时19分]"
         },
         {
           "title": "Marko Papic万字访谈：委内瑞拉救不了油价，特朗普或在2026年“压榨”美联储，股市迎来“YOLO时刻”",
@@ -173,7 +173,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -270,8 +270,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时22分 ~ 18时19分]"
+          "appearance_count": 12,
+          "time_info": "[11时22分 ~ 19时17分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -494,7 +494,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         }
