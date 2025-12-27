@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T09:20:07.167274+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2025-12-27T11:21:49.155370+08:00",
+  "total_titles_processed": 771,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 09时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 11时21分]"
         },
         {
           "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
@@ -41,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 09时20分]"
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时21分]"
         },
         {
           "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
@@ -55,6 +56,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
+          "url": "https://www.zhihu.com/question/1988017332140864055",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时21分]"
         },
         {
           "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
@@ -81,15 +94,16 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
-          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
-          "url": "https://www.zhihu.com/question/1988017332140864055",
-          "source": "知乎",
+          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
+          "url": "https://www.cls.cn/detail/2241688",
+          "source": "财联社热门",
           "ranks": [
-            7
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 09时20分]"
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时21分]"
         },
         {
           "title": "生物科技ETF收跌0.7%，领跌美股行业ETF，半导体ETF涨超0.4%",
@@ -114,17 +128,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时16分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
-          "url": "https://www.cls.cn/detail/2241688",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 09时20分]"
         },
         {
           "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
@@ -157,7 +160,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -187,7 +190,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -251,13 +254,24 @@
           "time_info": "[09时19分 ~ 09时20分]"
         },
         {
+          "title": "将见泽连斯基，特朗普放话：未经我批准，他无法敲定任何事",
+          "url": "https://news.ifeng.com/c/8pQ4NhlD6Ve",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
           "title": "特朗普：“未经我批准，泽连斯基一无所有”",
           "url": "https://flash.jin10.com/detail/20251227085451542800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
