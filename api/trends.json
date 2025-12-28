@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T15:18:16.410674+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2025-12-28T16:23:01.401415+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -61,6 +61,18 @@
           "time_info": "[00时21分 ~ 09时29分]"
         },
         {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时41分 ~ 16时23分]"
+        },
+        {
           "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
           "url": "https://flash.jin10.com/detail/20251227213217547800",
           "source": "金十数据",
@@ -73,18 +85,6 @@
           "time_info": "[00时21分 ~ 09时29分]"
         },
         {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时41分 ~ 15时18分]"
-        },
-        {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
           "url": "https://wallstreetcn.com/articles/3762159",
           "source": "华尔街见闻",
@@ -94,28 +94,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时20分 ~ 03时13分]"
-        },
-        {
-          "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
-          "url": "https://flash.jin10.com/detail/20251228145227378800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "特朗普秘密指令对24个“贩毒集团”实施海上打击",
-          "url": "https://flash.jin10.com/detail/20251228144705189800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         },
         {
           "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
@@ -130,6 +108,18 @@
           "time_info": "[09时29分 ~ 11时45分]"
         },
         {
+          "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
+          "url": "https://flash.jin10.com/detail/20251228145227378800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时23分]"
+        },
+        {
           "title": "特朗普敦促共和党人终结参议院的阻挠议事规则",
           "url": "https://flash.jin10.com/detail/20251228090052065800",
           "source": "金十数据",
@@ -140,6 +130,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 11时45分]"
+        },
+        {
+          "title": "特朗普秘密指令对24个“贩毒集团”实施海上打击",
+          "url": "https://flash.jin10.com/detail/20251228144705189800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时23分]"
         },
         {
           "title": "特朗普与泽连斯基会晤时间有所调整",
@@ -165,6 +167,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 11时45分]"
+        },
+        {
+          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
+          "url": "https://www.toutiao.com/trending/7588795037148794414/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "特朗普为美国带来了什么改变",
@@ -204,19 +217,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时45分 ~ 15时18分]"
-        },
-        {
-          "title": "伊朗总统警告美以勿发动新的攻击",
-          "url": "https://flash.jin10.com/detail/20251228144104744800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
+          "appearance_count": 10,
+          "time_info": "[11时45分 ~ 16时23分]"
         },
         {
           "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
@@ -229,6 +231,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 11时45分]"
+        },
+        {
+          "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
+          "url": "https://flash.jin10.com/detail/20251228132149206800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 16时23分]"
         },
         {
           "title": "伊朗总统：正与美欧打“全面战争”",
@@ -255,16 +270,16 @@
           "time_info": "[09时29分 ~ 11时45分]"
         },
         {
-          "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
-          "url": "https://flash.jin10.com/detail/20251228132149206800",
+          "title": "伊朗总统警告美以勿发动新的攻击",
+          "url": "https://flash.jin10.com/detail/20251228144104744800",
           "source": "金十数据",
           "ranks": [
-            4,
-            15
+            5,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时27分 ~ 15时18分]"
+          "time_info": "[15时18分 ~ 16时23分]"
         },
         {
           "title": "伊朗总统：伊朗正跟西方全面开战",
