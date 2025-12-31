@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T16:25:57.491664+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2025-12-31T17:22:06.352694+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时23分 ~ 07时17分]"
+        },
+        {
+          "title": "中方回应特朗普涉东部战区军演言论",
+          "url": "https://www.toutiao.com/trending/7589836293949902363/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12,
+            5,
+            7,
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时24分 ~ 17时22分]"
         },
         {
           "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
@@ -53,21 +69,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时23分 ~ 07时17分]"
-        },
-        {
-          "title": "中方回应特朗普涉东部战区军演言论",
-          "url": "https://www.toutiao.com/trending/7589836293949902363/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12,
-            5,
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时24分 ~ 16时25分]"
         },
         {
           "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
@@ -276,7 +277,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         }
@@ -308,8 +309,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时16分 ~ 16时25分]"
+          "appearance_count": 13,
+          "time_info": "[07时16分 ~ 17时22分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -524,7 +525,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -534,6 +535,69 @@
           "source": "微博",
           "ranks": [
             26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊朗外长：伊朗不会放弃和平核技术",
+          "url": "https://wallstreetcn.com/livenews/3028875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 04时20分]"
+        },
+        {
+          "title": "年末伊朗又起内忧：货币暴跌、三年来最大抗议",
+          "url": "https://news.ifeng.com/c/8pXBVSUicd9",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
+        },
+        {
+          "title": "伊朗外长：伊朗不会放弃和平核技术",
+          "url": "https://flash.jin10.com/detail/20251231010744539800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        },
+        {
+          "title": "俄罗斯伊朗两国总统通电话 讨论伊核计划等事",
+          "url": "https://wallstreetcn.com/livenews/3028833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "美国更新对伊朗相关制裁名单中的指定对象。",
+          "url": "https://flash.jin10.com/detail/20251230230520346800",
+          "source": "金十数据",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -592,58 +656,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "伊朗外长：伊朗不会放弃和平核技术",
-          "url": "https://wallstreetcn.com/livenews/3028875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 04时20分]"
-        },
-        {
-          "title": "伊朗外长：伊朗不会放弃和平核技术",
-          "url": "https://flash.jin10.com/detail/20251231010744539800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "俄罗斯伊朗两国总统通电话 讨论伊核计划等事",
-          "url": "https://wallstreetcn.com/livenews/3028833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "美国更新对伊朗相关制裁名单中的指定对象。",
-          "url": "https://flash.jin10.com/detail/20251230230520346800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
         }
       ]
     },
