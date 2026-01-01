@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T20:37:06.862583+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2026-01-01T21:32:34.312394+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
@@ -72,6 +72,19 @@
           "time_info": "[01时16分 ~ 03时14分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 21时32分]"
+        },
+        {
           "title": "委内瑞拉Orinoco Belt的石油产量两周锐减25%，特朗普政府的封锁造成严重威胁",
           "url": "https://wallstreetcn.com/livenews/3029490",
           "source": "华尔街见闻-快讯",
@@ -82,18 +95,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
-          "url": "https://flash.jin10.com/detail/20260101184638613800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 20时37分]"
         },
         {
           "title": "特朗普喊话“把索马里人送回去” 斥其祖国“全球最烂”",
@@ -244,8 +245,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时29分 ~ 20时37分]"
+          "appearance_count": 15,
+          "time_info": "[09时29分 ~ 21时32分]"
         },
         {
           "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
@@ -359,7 +360,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
@@ -371,8 +372,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 20时37分]"
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 21时32分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -382,11 +383,12 @@
             3,
             7,
             11,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 20时37分]"
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 21时32分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
@@ -395,11 +397,12 @@
           "ranks": [
             5,
             14,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时37分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 21时32分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -412,6 +415,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时20分 ~ 19时16分]"
+        },
+        {
+          "title": "DeepSeek梁文锋又发论文了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
+        {
+          "title": "DeepSeek开年发布新论文",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
         }
       ]
     },
@@ -462,26 +487,28 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "伊朗总统：伊朗正处于一场全面战争中",
-          "url": "https://flash.jin10.com/detail/20260101195820608800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
           "title": "伊朗总统发表讲话：“伊朗正处于一场全面战争之中”",
           "url": "https://wallstreetcn.com/livenews/3029613",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时32分]"
+        },
+        {
+          "title": "伊朗总统：伊朗正处于一场全面战争中",
+          "url": "https://flash.jin10.com/detail/20260101195820608800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时32分]"
         },
         {
           "title": "内塔尼亚胡喊话伊朗",
@@ -525,11 +552,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时22分"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 21时32分]"
         }
       ]
     },
