@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T15:22:42.944416+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-01-08T16:26:51.979798+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 85,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 16时26分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -79,8 +79,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时37分 ~ 15时22分]"
+          "appearance_count": 6,
+          "time_info": "[12时37分 ~ 16时26分]"
         },
         {
           "title": "特朗普提出将美军费提至1.5万亿美元",
@@ -91,22 +91,12 @@
             5,
             6,
             7,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 15时22分]"
-        },
-        {
-          "title": "美国总统特朗普：Raytheon必须停止回购股票。",
-          "url": "https://wallstreetcn.com/livenews/3032696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 16时26分]"
         },
         {
           "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
@@ -117,8 +107,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 15时22分]"
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 16时26分]"
         },
         {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
@@ -130,8 +120,45 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 16时26分]"
+        },
+        {
+          "title": "特朗普退出联合国机构一览表",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            12,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 16时26分]"
+        },
+        {
+          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
+          "url": "https://www.zhihu.com/question/1991444028256907311",
+          "source": "知乎",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时27分 ~ 15时22分]"
+          "time_info": "[12时37分 ~ 16时26分]"
+        },
+        {
+          "title": "美国总统特朗普：Raytheon必须停止回购股票。",
+          "url": "https://wallstreetcn.com/livenews/3032696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "英国方面表示，英国首相斯塔默于今晚与美国总统特朗普通话，并阐述了其在格陵兰岛问题上的立场。",
@@ -156,17 +183,15 @@
           "time_info": "09时23分"
         },
         {
-          "title": "特朗普退出联合国机构一览表",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
-          "source": "bilibili 热搜",
+          "title": "美媒：特朗普吹嘘委内瑞拉行动 回避后续规划问题",
+          "url": "https://flash.jin10.com/detail/20260108155641568800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            12,
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 15时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "美国石油公司警告称，它们需要得到担保才能在委内瑞拉投资。 美国石油高管向特朗普施压，要求获得法律和财务担保。（英国金融时报）",
@@ -178,18 +203,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
-        },
-        {
-          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
-          "url": "https://www.zhihu.com/question/1991444028256907311",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时37分 ~ 15时22分]"
         },
         {
           "title": "特朗普发表涉住房言论 住宅租赁股遭重创 地产股上涨",
@@ -468,6 +481,18 @@
           "time_info": "[02时28分 ~ 03时19分]"
         },
         {
+          "title": "美中期选举结果会如何影响特朗普",
+          "url": "https://www.toutiao.com/trending/7592759487010750506/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时26分]"
+        },
+        {
           "title": "特朗普：将禁止大型机构投资者购买更多独栋住宅",
           "url": "https://flash.jin10.com/detail/20260108015016701800",
           "source": "金十数据",
@@ -514,6 +539,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时17分]"
+        },
+        {
+          "title": "哥伦比亚总统与特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时26分]"
         },
         {
           "title": "美国扣押两艘油轮升级对委石油禁运，无视俄海军护航；美媒曝特朗普筹划控制委国有石油公司，欲将油价压至更低的每桶50美元，以实现降低美国能源价格的承诺……美油多日呈现卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -714,17 +750,6 @@
           "time_info": "07时18分"
         },
         {
-          "title": "美中期选举结果会如何影响特朗普",
-          "url": "https://www.toutiao.com/trending/7592759487010750506/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
           "title": "美国众议院议长约翰逊证实，美国总统特朗普将于2月24日发表国情咨文。",
           "url": "https://flash.jin10.com/detail/20260108050826101800",
           "source": "金十数据",
@@ -734,6 +759,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "美媒：特朗普称美国对委内瑞拉的监管可能持续数年",
+          "url": "https://flash.jin10.com/detail/20260108154136347800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "白宫新闻秘书莱维特：（谈格陵兰岛）特朗普和国家安全团队正在积极讨论。",
@@ -802,17 +838,6 @@
           "time_info": "09时23分"
         },
         {
-          "title": "哥伦比亚总统与特朗普通电话",
-          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
           "title": "美国总统特朗普：雷神公司是对国防部需求反应最为迟钝的，其产能提升速度最慢，且最热衷于向股东派息，而非满足美国军方的需求和要求。",
           "url": "https://flash.jin10.com/detail/20260108050520436800",
           "source": "金十数据",
@@ -857,6 +882,17 @@
           "time_info": "09时23分"
         },
         {
+          "title": "美国总统特朗普：我已经通过获取受制裁的石油为美国开始赚钱。",
+          "url": "https://flash.jin10.com/detail/20260108153300697800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "特朗普希望将油价降至每桶50美元。 特朗普政府计划将对委内瑞拉国家石油公司施加一定控制。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3032854",
           "source": "华尔街见闻-快讯",
@@ -877,6 +913,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "美国总统特朗普：（谈委内瑞拉）我们将向委内瑞拉提供资金，而他们正极度需要这些资金。",
+          "url": "https://flash.jin10.com/detail/20260108153240698800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "美国总统特朗普：Raytheon对“战争部”的回应最不负责任，该公司必须停止回购股票。 威胁要在投资问题上砍掉（政府/五角大楼）与该公司的联系。",
@@ -923,6 +970,17 @@
           "time_info": "09时23分"
         },
         {
+          "title": "特朗普表示，美国对委内瑞拉的监管可能会持续多年，美国将在未来数年内开采委内瑞拉石油。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3033071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "特朗普质疑北约在美需要时会否支持",
           "url": "https://www.toutiao.com/trending/7592647574625075243/",
           "source": "今日头条",
@@ -932,6 +990,154 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "英媒称伊朗抗议席卷全国一半省份，至少36人死亡",
+          "url": "https://news.ifeng.com/c/8pj8bQ0XmqB",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            20,
+            19,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时18分]"
+        },
+        {
+          "title": "怕清算?伊朗领袖携950亿开溜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348752&amp;topic_name=%E6%80%95%E6%B8%85%E7%AE%97%3F%E4%BC%8A%E6%9C%97%E9%A2%86%E8%A2%96%E6%90%BA950%E4%BA%BF%E5%BC%80%E6%BA%9C",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            26,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 13时22分]"
+        },
+        {
+          "title": "伊朗谴责以色列外长进入索马里兰",
+          "url": "https://flash.jin10.com/detail/20260108024648911800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时22分]"
+        },
+        {
+          "title": "美国司法部长邦迪：今天，美国对“贝拉1号”（BELLA 1）油轮执行了扣押令。该油轮负责从委内瑞拉和伊朗运输受制裁的石油。",
+          "url": "https://flash.jin10.com/detail/20260108021617134800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时19分]"
+        },
+        {
+          "title": "伊朗外长：目前不具备与美谈判条件",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E7%9B%AE%E5%89%8D%E4%B8%8D%E5%85%B7%E5%A4%87%E4%B8%8E%E7%BE%8E%E8%B0%88%E5%88%A4%E6%9D%A1%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 06时18分]"
+        },
+        {
+          "title": "伊朗外长：目前不具备与美国谈判的合适条件",
+          "url": "https://wallstreetcn.com/livenews/3032630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时19分]"
+        },
+        {
+          "title": "伊朗军方说不会对美威胁置之不理",
+          "url": "https://flash.jin10.com/detail/20260108001139884800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "伊朗外交部就美干涉主义立场发表声明",
+          "url": "https://wallstreetcn.com/livenews/3032735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "伊朗德黑兰局势暂缓 大巴扎复市",
+          "url": "https://www.toutiao.com/trending/7592247328158253082/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "伊朗外长：目前不具备与美国谈判的合适条件",
+          "url": "https://flash.jin10.com/detail/20260108013739412800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "伊朗舆论：美以发动又一轮心理战",
+          "url": "https://www.toutiao.com/trending/7591961740225724479/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         }
       ]
     },
@@ -1067,143 +1273,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "英媒称伊朗抗议席卷全国一半省份，至少36人死亡",
-          "url": "https://news.ifeng.com/c/8pj8bQ0XmqB",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时18分]"
-        },
-        {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            20,
-            19,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时18分]"
-        },
-        {
-          "title": "怕清算?伊朗领袖携950亿开溜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348752&amp;topic_name=%E6%80%95%E6%B8%85%E7%AE%97%3F%E4%BC%8A%E6%9C%97%E9%A2%86%E8%A2%96%E6%90%BA950%E4%BA%BF%E5%BC%80%E6%BA%9C",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            26,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 13时22分]"
-        },
-        {
-          "title": "伊朗谴责以色列外长进入索马里兰",
-          "url": "https://flash.jin10.com/detail/20260108024648911800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时22分]"
-        },
-        {
-          "title": "美国司法部长邦迪：今天，美国对“贝拉1号”（BELLA 1）油轮执行了扣押令。该油轮负责从委内瑞拉和伊朗运输受制裁的石油。",
-          "url": "https://flash.jin10.com/detail/20260108021617134800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时19分]"
-        },
-        {
-          "title": "伊朗外长：目前不具备与美谈判条件",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E7%9B%AE%E5%89%8D%E4%B8%8D%E5%85%B7%E5%A4%87%E4%B8%8E%E7%BE%8E%E8%B0%88%E5%88%A4%E6%9D%A1%E4%BB%B6",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时21分 ~ 06时18分]"
-        },
-        {
-          "title": "伊朗外长：目前不具备与美国谈判的合适条件",
-          "url": "https://wallstreetcn.com/livenews/3032630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时19分]"
-        },
-        {
-          "title": "伊朗军方说不会对美威胁置之不理",
-          "url": "https://flash.jin10.com/detail/20260108001139884800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "伊朗外交部就美干涉主义立场发表声明",
-          "url": "https://wallstreetcn.com/livenews/3032735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "伊朗德黑兰局势暂缓 大巴扎复市",
-          "url": "https://www.toutiao.com/trending/7592247328158253082/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "伊朗外长：目前不具备与美国谈判的合适条件",
-          "url": "https://flash.jin10.com/detail/20260108013739412800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
@@ -1250,9 +1319,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时26分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.4%，Meta跌1.8%",
@@ -1279,6 +1348,79 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月08日（周四）上海金午盘价为995.88元/克，较国际金价(995.17元/克)，高0.71元/克",
+          "url": "https://flash.jin10.com/detail/20260108150325507800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "金价已在历史高位 央行为何还在买",
+          "url": "https://www.toutiao.com/trending/7592763349536869894/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 11时27分]"
+        },
+        {
+          "title": "金十图示：2026年01月08日（周四）上海金早盘价为999.71元/克，较国际金价(999.06元/克)，高0.65元/克",
+          "url": "https://flash.jin10.com/detail/20260108102327736800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "美元走强压制金价 投资者警惕市场波动与获利回吐",
+          "url": "https://flash.jin10.com/detail/20260108135145706800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
+          "title": "金价暴涨年轻人改买“道具黄金”",
+          "url": "https://www.toutiao.com/trending/7592498286850998299/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "国际金价为何一路狂飙",
+          "url": "https://www.toutiao.com/trending/7591730575850602502/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 6,
       "titles": [
@@ -1291,8 +1433,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时23分 ~ 15时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时23分 ~ 16时26分]"
         },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -1349,68 +1491,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金十图示：2026年01月08日（周四）上海金午盘价为995.88元/克，较国际金价(995.17元/克)，高0.71元/克",
-          "url": "https://flash.jin10.com/detail/20260108150325507800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "金价已在历史高位 央行为何还在买",
-          "url": "https://www.toutiao.com/trending/7592763349536869894/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 11时27分]"
-        },
-        {
-          "title": "金十图示：2026年01月08日（周四）上海金早盘价为999.71元/克，较国际金价(999.06元/克)，高0.65元/克",
-          "url": "https://flash.jin10.com/detail/20260108102327736800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "美元走强压制金价 投资者警惕市场波动与获利回吐",
-          "url": "https://flash.jin10.com/detail/20260108135145706800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        },
-        {
-          "title": "国际金价为何一路狂飙",
-          "url": "https://www.toutiao.com/trending/7591730575850602502/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
         }
       ]
     },
@@ -1507,7 +1587,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
