@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-17T14:26:56.698976+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-01-17T15:17:50.646507+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 64,
       "titles": [
-        {
-          "title": "特朗普威胁：对不支持的国家加征关税",
-          "url": "https://news.ifeng.com/c/8pyLh0hhSlp",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时22分 ~ 06时19分]"
-        },
         {
           "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
           "url": "https://news.ifeng.com/c/8pyaPdxiAtr",
@@ -28,8 +17,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时17分 ~ 15时17分]"
+        },
+        {
+          "title": "特朗普威胁：对不支持的国家加征关税",
+          "url": "https://news.ifeng.com/c/8pyLh0hhSlp",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时17分 ~ 14时26分]"
+          "time_info": "[01时22分 ~ 06时19分]"
         },
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -66,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 14时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时20分 ~ 15时17分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
@@ -80,6 +80,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 09时20分]"
+        },
+        {
+          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时20分 ~ 15时17分]"
         },
         {
           "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
@@ -121,29 +134,17 @@
           "time_info": "[00时24分 ~ 07时18分]"
         },
         {
-          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 14时26分]"
-        },
-        {
           "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
           "url": "https://wallstreetcn.com/articles/3763493",
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 14时26分]"
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 15时17分]"
         },
         {
           "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
@@ -156,8 +157,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 14时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时20分 ~ 15时17分]"
         },
         {
           "title": "挪威诺贝尔研究所：诺贝尔和平奖始终与挪威诺贝尔委员会指定的获奖者或组织密不可分。（此前委内瑞拉反对派领导人马查多向特朗普递交了诺贝尔和平奖奖章）",
@@ -581,7 +582,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -636,7 +637,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -765,7 +766,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "上合组织就伊朗局势发布声明",
@@ -787,8 +788,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时19分 ~ 14时26分]"
+          "appearance_count": 14,
+          "time_info": "[03时19分 ~ 15时17分]"
         },
         {
           "title": "上海合作组织发表关于伊朗局势的声明",
@@ -830,19 +831,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 14时26分]"
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 15时17分]"
         },
         {
           "title": "伊朗全境已恢复互联网服务。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3039091",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时17分]"
         },
         {
           "title": "欧洲航空安全局：伊朗存在以及可能使用多种武器和防空系统，对在各高度运行的民用航班构成高风险。",
@@ -972,6 +974,18 @@
           "time_info": "[01时22分 ~ 02时29分]"
         },
         {
+          "title": "伊朗全境已恢复互联网服务",
+          "url": "https://www.douyin.com/hot/2370647",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时17分]"
+        },
+        {
           "title": "伊朗警方破获一起重大武器走私案",
           "url": "https://wallstreetcn.com/livenews/3039032",
           "source": "华尔街见闻-快讯",
@@ -1007,15 +1021,26 @@
           "time_info": "04时20分"
         },
         {
-          "title": "伊朗全境已恢复互联网服务",
-          "url": "https://www.douyin.com/hot/2370647",
-          "source": "抖音",
+          "title": "伊朗全境已恢复互联网服务。",
+          "url": "https://flash.jin10.com/detail/20260117135223968800",
+          "source": "金十数据",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时26分"
+          "time_info": "15时17分"
+        },
+        {
+          "title": "为何美国紧盯伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E7%BE%8E%E5%9B%BD%E7%B4%A7%E7%9B%AF%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "伊朗媒体：约3000人因骚乱被捕",
@@ -1057,8 +1082,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时17分 ~ 14时26分]"
+          "appearance_count": 9,
+          "time_info": "[07时17分 ~ 15时17分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -1186,7 +1211,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -1199,6 +1224,34 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时24分 ~ 07时18分]"
+        },
+        {
+          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
+          "url": "https://wallstreetcn.com/livenews/3039069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14,
+            18,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 15时17分]"
+        },
+        {
+          "title": "ChatGPT将加入广告",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%B0%86%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 15时17分]"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -1240,20 +1293,6 @@
           "time_info": "[02时29分 ~ 04时20分]"
         },
         {
-          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
-          "url": "https://wallstreetcn.com/livenews/3039069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时21分 ~ 14时26分]"
-        },
-        {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
           "url": "https://wallstreetcn.com/livenews/3038964",
           "source": "华尔街见闻-快讯",
@@ -1267,18 +1306,6 @@
           "time_info": "[02时29分 ~ 04时20分]"
         },
         {
-          "title": "ChatGPT将加入广告",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%B0%86%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时26分]"
-        },
-        {
           "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
           "url": "https://flash.jin10.com/detail/20260117021136642800",
           "source": "金十数据",
@@ -1289,6 +1316,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时20分]"
+        },
+        {
+          "title": "解读ChatGPT加入广告背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         }
       ]
     },
@@ -1431,7 +1469,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价波动",
@@ -1444,6 +1482,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时20分 ~ 12时31分]"
+        },
+        {
+          "title": "分析师：贵金属失去部分地缘政治溢价，仍认为金价有机会触及5000美元",
+          "url": "https://flash.jin10.com/detail/20260117140618013800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         }
       ]
     }
