@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-20T14:32:16.226786+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-01-20T15:25:49.283644+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 65,
       "titles": [
+        {
+          "title": "特朗普写了一封信，杀气腾腾，槽点满满",
+          "url": "https://news.ifeng.com/c/8q3qn0KjEks",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 15时25分]"
+        },
         {
           "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
           "url": "https://wallstreetcn.com/articles/3763623",
@@ -18,32 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 14时32分]"
-        },
-        {
-          "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
-          "url": "https://news.ifeng.com/c/8q2mrUjZSWs",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时18分]"
-        },
-        {
-          "title": "特朗普写了一封信，杀气腾腾，槽点满满",
-          "url": "https://news.ifeng.com/c/8q3qn0KjEks",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时23分 ~ 14时32分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 15时25分]"
         },
         {
           "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
@@ -56,8 +44,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时18分 ~ 14时32分]"
+          "appearance_count": 10,
+          "time_info": "[07时18分 ~ 15时25分]"
+        },
+        {
+          "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
+          "url": "https://news.ifeng.com/c/8q2mrUjZSWs",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时18分]"
         },
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -96,6 +96,19 @@
           "time_info": "[00时25分 ~ 07时18分]"
         },
         {
+          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
+          "url": "https://wallstreetcn.com/articles/3763642",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 15时25分]"
+        },
+        {
           "title": "普京被邀请加入特朗普“和平委员会”",
           "url": "https://news.ifeng.com/c/8q2yFHRzsKV",
           "source": "凤凰网",
@@ -120,19 +133,6 @@
           "time_info": "[00时25分 ~ 09时23分]"
         },
         {
-          "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
-          "url": "https://wallstreetcn.com/articles/3763642",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 14时32分]"
-        },
-        {
           "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
           "url": "https://www.zhihu.com/question/1995879633401374340",
           "source": "知乎",
@@ -141,8 +141,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时23分 ~ 14时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 15时25分]"
         },
         {
           "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
@@ -155,8 +155,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时23分 ~ 14时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 15时25分]"
         },
         {
           "title": "特朗普继续威胁，“100%加税，欧洲等着吧”",
@@ -166,8 +166,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 15时25分]"
+        },
+        {
+          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
+          "url": "https://www.cls.cn/detail/2263060",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 15时25分]"
+        },
+        {
+          "title": "特朗普关税威胁引发欧股抛售 奢侈品股全线大跌",
+          "url": "https://www.cls.cn/detail/2262836",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时42分 ~ 15时25分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -192,38 +216,15 @@
           "time_info": "[00时25分 ~ 01时22分]"
         },
         {
-          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
-          "url": "https://www.cls.cn/detail/2263060",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 14时32分]"
-        },
-        {
           "title": "美国总统特朗普在其社交平台“真实社交”上发图，暗示吞并丹麦自治领地格陵兰岛。（CCTV国际时讯）",
           "url": "https://wallstreetcn.com/livenews/3040187",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
-        },
-        {
-          "title": "特朗普关税威胁引发欧股抛售 奢侈品股全线大跌",
-          "url": "https://www.cls.cn/detail/2262836",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 14时32分]"
         },
         {
           "title": "丹麦外交部长：相信英国首相斯塔默已与美国总统特朗普直接通话。",
@@ -235,6 +236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "金十整理：不入局就加征200%关税？特朗普的“加沙和平委员会”为何难获响应？",
+          "url": "https://flash.jin10.com/detail/20260120151936040800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "美国总统特朗普：我将对法国葡萄酒和香槟征收200%的关税，法国总统马克龙将加入和平委员会。",
@@ -437,7 +449,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -492,7 +504,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -530,6 +542,17 @@
           "time_info": "13时27分"
         },
         {
+          "title": "是否会武力夺取格陵兰岛？特朗普回应：无可奉告！",
+          "url": "https://www.cls.cn/detail/2262925",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "美媒爆料：特朗普私下“密集谈论”加拿大",
           "url": "https://wallstreetcn.com/livenews/3039838",
           "source": "华尔街见闻-快讯",
@@ -547,7 +570,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -558,7 +581,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -580,7 +603,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -679,7 +702,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -723,7 +746,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -852,8 +875,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 14时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 15时25分]"
         },
         {
           "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
@@ -865,8 +888,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时23分 ~ 14时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 15时25分]"
         },
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
@@ -889,6 +912,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "财晓得丨金价涨成这样，到什么位置了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367730",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[01时22分 ~ 15时25分]"
+        },
+        {
+          "title": "决定黄金价格的三大属性",
+          "url": "https://www.toutiao.com/trending/7597064696004349450/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            9,
+            4,
+            19,
+            29,
+            30,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时18分]"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）上海金早盘价为1045.19元/克，较国际金价(1043.73元/克)，高1.46元/克",
+          "url": "https://flash.jin10.com/detail/20260120110210284800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）上海金午盘价为1055元/克，较国际金价(1054.32元/克)，高0.68元/克",
+          "url": "https://flash.jin10.com/detail/20260120150210258800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     },
@@ -948,55 +1032,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "财晓得丨金价涨成这样，到什么位置了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32367730",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时22分 ~ 14时32分]"
-        },
-        {
-          "title": "决定黄金价格的三大属性",
-          "url": "https://www.toutiao.com/trending/7597064696004349450/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            9,
-            4,
-            19,
-            29,
-            30,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时18分]"
-        },
-        {
-          "title": "金十图示：2026年01月20日（周二）上海金早盘价为1045.19元/克，较国际金价(1043.73元/克)，高1.46元/克",
-          "url": "https://flash.jin10.com/detail/20260120110210284800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -1008,8 +1043,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时18分 ~ 14时32分]"
+          "appearance_count": 10,
+          "time_info": "[07时18分 ~ 15时25分]"
         },
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
