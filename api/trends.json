@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T13:25:44.117962+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2026-01-23T14:31:00.179551+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 91,
+      "match_count": 92,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -42,8 +42,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 13时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 14时31分]"
+        },
+        {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 14时31分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -65,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 13时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 14时31分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -88,8 +100,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 13时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 14时31分]"
         },
         {
           "title": "马克龙戴太阳镜亮相遭特朗普调侃",
@@ -123,15 +135,15 @@
           "time_info": "[00时31分 ~ 09时23分]"
         },
         {
-          "title": "特朗普称加拿大因美国而存在，加总理回应",
-          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
           "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 13时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 14时31分]"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -161,15 +173,16 @@
           "time_info": "[02时28分 ~ 09时23分]"
         },
         {
-          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
-          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
           "source": "凤凰网",
           "ranks": [
-            4
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 13时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 14时31分]"
         },
         {
           "title": "特朗普为啥时隔一天态度变了",
@@ -183,17 +196,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时26分 ~ 07时19分]"
-        },
-        {
-          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
-          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 13时25分]"
         },
         {
           "title": "特朗普执政一年把美国推向何方",
@@ -221,6 +223,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时26分]"
+        },
+        {
+          "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
+          "url": "https://news.ifeng.com/c/8q96HMKxd1u",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 14时31分]"
         },
         {
           "title": "美国总统特朗普：抵押贷款利率刚刚跌至三年低点，尽管杰罗姆·鲍威尔（“太迟”）始终执意维持高利率（对抗“特朗普！”）。这恰恰证明他从头到尾都错了，因为市场正在超越他的顽固。在“太迟”的统治期间，美联储已遭受重创并声名狼藉！",
@@ -366,6 +379,17 @@
           "time_info": "[09时23分 ~ 13时25分]"
         },
         {
+          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
+          "url": "https://www.cls.cn/detail/2267102",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 14时31分]"
+        },
+        {
           "title": "美国总统特朗普：一些“和平委员会”成员国已经出资10亿美元，其他国家出资更多。",
           "url": "https://flash.jin10.com/detail/20260123060136553800",
           "source": "金十数据",
@@ -436,17 +460,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 03时22分]"
-        },
-        {
-          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
-          "url": "https://www.cls.cn/detail/2267102",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 13时25分]"
         },
         {
           "title": "中方回应特朗普达沃斯言论",
@@ -1068,8 +1081,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时18分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[07时18分 ~ 14时31分]"
         },
         {
           "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
@@ -1341,6 +1354,84 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "被误解的“渗透”和被低估的韧性：伊朗如何令各种“崩溃论”破产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440209",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时19分]"
+        },
+        {
+          "title": "以媒称美近日或袭伊朗",
+          "url": "https://www.douyin.com/hot/2376219",
+          "source": "抖音",
+          "ranks": [
+            14,
+            21,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 14时31分]"
+        },
+        {
+          "title": "美国正调集重兵前往伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 14时31分]"
+        },
+        {
+          "title": "美军对伊朗开战进入倒计时了吗",
+          "url": "https://www.toutiao.com/trending/7598386191951466003/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 14时31分]"
+        },
+        {
+          "title": "伊朗议长称该国所有城市已恢复和平",
+          "url": "https://wallstreetcn.com/livenews/3042180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "土耳其与伊朗两国总统通电话 强调反对外部干涉伊朗局势",
+          "url": "https://wallstreetcn.com/livenews/3042165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 5,
       "titles": [
@@ -1476,7 +1567,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -1555,65 +1646,22 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "被误解的“渗透”和被低估的韧性：伊朗如何令各种“崩溃论”破产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440209",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时19分]"
-        },
-        {
-          "title": "以媒称美近日或袭伊朗",
-          "url": "https://www.douyin.com/hot/2376219",
-          "source": "抖音",
-          "ranks": [
-            14,
-            21,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 13时25分]"
-        },
-        {
-          "title": "伊朗议长称该国所有城市已恢复和平",
-          "url": "https://wallstreetcn.com/livenews/3042180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "土耳其与伊朗两国总统通电话 强调反对外部干涉伊朗局势",
-          "url": "https://wallstreetcn.com/livenews/3042165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
       "match_count": 2,
       "titles": [
+        {
+          "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 14时31分]"
+        },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
           "url": "https://flash.jin10.com/detail/20260123120453959800",
@@ -1625,18 +1673,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时40分 ~ 13时25分]"
-        },
-        {
-          "title": "开年已涨超11%！高盛：上调黄金年末价格预期至5400美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32442551",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 13时25分]"
         }
       ]
     },
