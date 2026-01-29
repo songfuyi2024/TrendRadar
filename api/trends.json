@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T15:38:45.851940+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2026-01-29T16:35:59.334706+08:00",
+  "total_titles_processed": 1558,
   "failed_sources": [],
   "trends": [
     {
@@ -74,6 +74,19 @@
           "time_info": "[00时33分 ~ 05时28分]"
         },
         {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 16时35分]"
+        },
+        {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
           "url": "https://wallstreetcn.com/articles/3764299",
           "source": "华尔街见闻",
@@ -84,18 +97,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时33分 ~ 05时28分]"
-        },
-        {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 15时38分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -113,6 +114,21 @@
           "time_info": "[09时46分 ~ 15时38分]"
         },
         {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://www.cls.cn/detail/2273523",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时05分 ~ 16时35分]"
+        },
+        {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
           "url": "https://flash.jin10.com/detail/20260129004308229800",
           "source": "金十数据",
@@ -122,20 +138,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
-        },
-        {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://www.cls.cn/detail/2273523",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 15时38分]"
         },
         {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
@@ -222,6 +224,18 @@
           "time_info": "[01时31分 ~ 02时33分]"
         },
         {
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 16时35分]"
+        },
+        {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
           "url": "https://www.cls.cn/detail/2273332",
           "source": "财联社热门",
@@ -232,18 +246,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时46分 ~ 12时06分]"
-        },
-        {
-          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
-          "url": "https://www.zhihu.com/question/2000136531822794040",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时41分 ~ 15时38分]"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”活动上感谢Gerstner、优步（Uber）、以及英特尔。",
@@ -529,7 +531,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗启动紧急措施“备战”",
@@ -811,6 +813,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "欧盟拟将伊朗革命卫队列为恐怖组织",
+          "url": "https://flash.jin10.com/detail/20260129160346406800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "美国国务卿鲁比奥：伊朗的抗议活动可能已经平息，但未来还会再次爆发。",
@@ -1111,11 +1124,12 @@
             21,
             23,
             22,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 15时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 16时35分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1143,28 +1157,29 @@
           "time_info": "[02时33分 ~ 07时23分]"
         },
         {
-          "title": "挪威石油基金：2025年基金价值增加1.526万亿挪威克朗。",
-          "url": "https://flash.jin10.com/detail/20260129151543362800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
           "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
           "url": "https://www.cls.cn/detail/2273531",
           "source": "财联社热门",
           "ranks": [
             10,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 15时38分]"
+          "appearance_count": 6,
+          "time_info": "[12时05分 ~ 16时35分]"
+        },
+        {
+          "title": "挪威石油基金：2025年基金价值增加1.526万亿挪威克朗。",
+          "url": "https://flash.jin10.com/detail/20260129151543362800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "金价",
@@ -1285,11 +1300,12 @@
           "ranks": [
             5,
             7,
-            15
+            15,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 15时38分]"
+          "appearance_count": 6,
+          "time_info": "[12时05分 ~ 16时35分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
